@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testcases.HumanResourcesTest"/>
+      <class name="testcases.BillingTest"/>
+      <class name="testcases.AppotmentCalendarTest"/>
+      <class name="testcases.AssetManagementTest"/>
+      <class name="testcases.GeneralTest"/>
+      <class name="testcases.ExpenseTest"/>
+      <class name="testcases.EventManagementTest"/>
+      <class name="testcases.CrmTest"/>
+      <class name="testcases.DocumentStorageTest"/>
+      <class name="testcases.INTEGRATIONSTest"/>
+      <class name="testcases.MSPModuleTest"/>
+      <class name="testcases.DisplayScreenTest"/>
+      <class name="testcases.VDeskTest"/>
+      <class name="testcases.ApprovalTest"/>
+      <class name="testcases.VendorTest"/>
+      <class name="testcases.CompanySetUpTest"/>
+      <class name="testcases.PerformanceReviewTest"/>
+      <class name="testcases.HRManagementTest"/>
+      <class name="testcases.TicketingTest"/>
+      <class name="testcases.TimeTrackingTest"/>
+      <class name="testcases.HiringTest"/>
+      <class name="testcases.CommunicationTest"/>
+      <class name="testcases.FsmTest"/>
+      <class name="testcases.TrainingTest"/>
+      <class name="testcases.ProjectManagementTest"/>
+      <class name="testcases.IntegrationTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

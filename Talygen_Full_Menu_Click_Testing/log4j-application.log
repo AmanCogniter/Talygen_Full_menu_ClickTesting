@@ -1,0 +1,1162 @@
+2022-11-09 12:31:36,132  INFO [main] User Login Page:873 - Error message for "Short Description" field is displayed as expected
+2022-11-09 12:31:36,427  INFO [main] User Login Page:868 - Error message for "Short Description" field is displayed as expected
+2022-11-09 12:31:36,461  INFO [main] User Login Page:852 - The Asterisk symbol is displayed for Description field
+2022-11-09 12:31:36,494  INFO [main] User Login Page:868 - Error message for "Description" field is displayed as expected
+2022-11-09 12:31:41,326  INFO [main] User Login Page:113 - Cancel button clicked 
+2022-11-09 12:31:46,588  INFO [main] User Login Page:113 - Check Box clicked 
+2022-11-09 12:31:49,336  INFO [main] User Login Page:113 - Delete clicked 
+2022-11-09 12:31:51,423  INFO [main] User Login Page:892 - Delete Notify Message PopUp opened succesfully
+2022-11-09 12:31:51,708  INFO [main] User Login Page:113 - Cancel Button clicked 
+2022-11-09 12:31:54,441  INFO [main] User Login Page:113 - Clone Button clicked 
+2022-11-09 12:31:56,523  INFO [main] User Login Page:907 - Clone Notify Message PopUp opened succesfully
+2022-11-09 12:31:58,907  INFO [main] User Login Page:113 - User Guide clicked 
+2022-11-09 12:32:00,987  INFO [main] User Login Page:922 - User Guide popUp opened succesfully
+2022-11-09 12:32:01,303  INFO [main] User Login Page:113 - Closed User Guide clicked 
+2022-11-09 12:32:01,935  INFO [main] User Login Page:113 - Cancel Button clicked 
+2022-11-09 12:32:04,582  INFO [main] User Login Page:113 - Move Button clicked 
+2022-11-09 12:32:06,653  INFO [main] User Login Page:939 - Move Notify Message PopUp opened succesfully
+2022-11-09 12:32:09,062  INFO [main] User Login Page:113 - User Guide clicked 
+2022-11-09 12:32:11,163  INFO [main] User Login Page:954 - User Guide popUp opened succesfully
+2022-11-09 12:32:11,479  INFO [main] User Login Page:113 - Closed User Guide clicked 
+2022-11-09 12:32:12,109  INFO [main] User Login Page:113 - Cancel Button clicked 
+2022-11-09 12:32:26,780  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 12:32:29,615  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 12:32:32,576  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 12:32:32,948  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 12:32:33,256  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:32:33,561  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:32:34,199  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 12:32:41,360  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 12:32:43,708  INFO [main] User Login Page:113 - Ticketing clicked 
+2022-11-09 12:32:49,046  INFO [main] User Login Page:113 - Product clicked 
+2022-11-09 12:32:49,091  INFO [main] User Login Page:976 - Product Page opened succesfully
+2022-11-09 12:32:54,421  INFO [main] User Login Page:113 - Add Product clicked 
+2022-11-09 12:32:54,457  INFO [main] User Login Page:989 - Add product Page opened succesfully
+2022-11-09 12:32:57,272  INFO [main] User Login Page:113 - Save button clicked 
+2022-11-09 12:32:59,401  INFO [main] User Login Page:1018 - The Asterisk symbol is displayed for Product Name field
+2022-11-09 12:32:59,422  INFO [main] User Login Page:1034 - Error message for "Product Name" field is displayed as expected
+2022-11-09 12:33:04,808  INFO [main] User Login Page:113 - Cancel button clicked 
+2022-11-09 12:33:07,458  INFO [main] User Login Page:113 - Check Box clicked 
+2022-11-09 12:33:09,809  INFO [main] User Login Page:113 - Active clicked 
+2022-11-09 12:33:11,858  INFO [main] User Login Page:299 - Notify Message PopUp opened succesfully
+2022-11-09 12:33:14,149  INFO [main] User Login Page:113 - Cancel Button clicked 
+2022-11-09 12:33:16,527  INFO [main] User Login Page:113 - InActive clicked 
+2022-11-09 12:33:18,569  INFO [main] User Login Page:315 - Notify Message PopUp opened succesfully
+2022-11-09 12:33:20,860  INFO [main] User Login Page:113 - Cancel Button clicked 
+2022-11-09 12:33:23,806  INFO [main] User Login Page:113 - Delete clicked 
+2022-11-09 12:33:25,851  INFO [main] User Login Page:331 - Notify Message PopUp opened succesfully
+2022-11-09 12:33:28,142  INFO [main] User Login Page:113 - Cancel Button clicked 
+2022-11-09 12:33:41,521  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 12:33:41,929  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 12:33:42,296  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:33:43,006  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 12:33:50,120  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 12:33:52,519  INFO [main] User Login Page:113 - Time Tracking clicked 
+2022-11-09 12:33:58,736  INFO [main] User Login Page:113 - Audit Rule clicked 
+2022-11-09 12:33:58,778  INFO [main] User Login Page:42 - Audit Rule Page opened succesfully
+2022-11-09 12:34:05,256  INFO [main] User Login Page:113 - Add Audit Rule clicked 
+2022-11-09 12:34:05,295  INFO [main] User Login Page:56 - Add Audit Rule Page opened succesfully
+2022-11-09 12:34:07,908  INFO [main] User Login Page:113 - Save Button clicked 
+2022-11-09 12:34:10,133  INFO [main] User Login Page:83 - The Asterisk symbol is displayed for Rule Name field
+2022-11-09 12:34:10,156  INFO [main] User Login Page:99 - Error message for "Rule Name" field is displayed as expected
+2022-11-09 12:34:10,195  INFO [main] User Login Page:83 - The Asterisk symbol is displayed for User field
+2022-11-09 12:34:10,226  INFO [main] User Login Page:99 - Error message for "User" field is displayed as expected
+2022-11-09 12:34:10,264  INFO [main] User Login Page:83 - The Asterisk symbol is displayed for Rule Type field
+2022-11-09 12:34:10,307  INFO [main] User Login Page:104 - Error message for "Rule Type" field is displayed as expected
+2022-11-09 12:34:15,280  INFO [main] User Login Page:113 - Cancel Button clicked 
+2022-11-09 12:34:17,866  INFO [main] User Login Page:113 - Check Box clicked 
+2022-11-09 12:34:20,821  INFO [main] User Login Page:113 - Delete Button clicked 
+2022-11-09 12:34:22,864  INFO [main] User Login Page:123 - Delete Notify Message PopUp opened succesfully
+2022-11-09 12:34:23,174  INFO [main] User Login Page:113 - Cancel Button clicked 
+2022-11-09 12:34:37,723  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 12:34:40,371  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 12:34:43,389  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 12:34:43,811  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 12:34:44,139  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:34:44,495  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:34:45,156  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 12:34:51,828  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 12:34:54,243  INFO [main] User Login Page:113 - Time Tracking clicked 
+2022-11-09 12:35:00,378  INFO [main] User Login Page:113 - Bulk Time Entry clicked 
+2022-11-09 12:35:00,422  INFO [main] User Login Page:140 - Bulk Time Entry Page opened succesfully
+2022-11-09 12:35:03,070  INFO [main] User Login Page:113 - Fill Time Entry clicked 
+2022-11-09 12:35:03,124  INFO [main] User Login Page:153 - Fill Time Entry notify message popup opened succesfully
+2022-11-09 12:35:05,695  INFO [main] User Login Page:113 - Close Notify Message PopUp clicked 
+2022-11-09 12:35:20,503  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 12:35:23,129  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 12:35:26,622  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 12:35:27,056  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 12:35:27,410  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:35:27,782  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:35:28,458  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 12:35:34,845  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 12:35:37,242  INFO [main] User Login Page:113 - Time Tracking clicked 
+2022-11-09 12:35:45,948  INFO [main] User Login Page:113 - Flag Track Entry clicked 
+2022-11-09 12:35:48,027  INFO [main] User Login Page:174 - Flag Track Entry Page opened succesfully
+2022-11-09 12:36:00,453  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 12:36:03,122  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 12:36:06,202  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 12:36:06,601  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 12:36:06,938  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:36:07,286  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:36:07,976  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 12:36:14,174  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 12:36:16,587  INFO [main] User Login Page:113 - Time Tracking clicked 
+2022-11-09 12:36:34,035  INFO [main] User Login Page:113 - Project Report clicked 
+2022-11-09 12:36:34,092  INFO [main] User Login Page:190 - Project Report Page opened succesfully
+2022-11-09 12:36:47,761  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 12:36:53,516  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 12:36:53,961  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 12:36:54,383  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 12:36:54,782  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:36:55,148  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:36:55,860  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 12:37:02,294  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 12:37:04,690  INFO [main] User Login Page:113 - Time Tracking clicked 
+2022-11-09 12:37:18,418  INFO [main] User Login Page:113 - Time Report clicked 
+2022-11-09 12:37:18,567  INFO [main] User Login Page:206 - Project Report Page opened succesfully
+2022-11-09 12:37:32,513  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 12:37:37,739  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 12:37:38,178  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 12:37:38,589  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 12:37:38,911  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:37:39,269  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:37:39,942  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 12:37:46,323  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 12:37:48,708  INFO [main] User Login Page:113 - Time Tracking clicked 
+2022-11-09 12:37:56,293  INFO [main] User Login Page:113 - Time Approval clicked 
+2022-11-09 12:37:56,330  INFO [main] User Login Page:223 - Time Approval Page opened succesfully
+2022-11-09 12:38:02,341  INFO [main] User Login Page:113 - View History clicked 
+2022-11-09 12:38:02,397  INFO [main] User Login Page:236 - Timesheet Approvals History Page opened succesfully
+2022-11-09 12:38:08,039  INFO [main] User Login Page:113 - Back to list clicked 
+2022-11-09 12:38:23,385  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 12:38:25,994  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 12:38:29,252  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 12:38:29,679  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 12:38:30,010  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:38:30,359  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:38:30,990  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 12:38:37,158  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 12:38:39,494  INFO [main] User Login Page:113 - Time Tracking clicked 
+2022-11-09 12:38:45,883  INFO [main] User Login Page:113 - Timesheet clicked 
+2022-11-09 12:38:46,147  INFO [main] User Login Page:256 - Timesheet Page opened succesfully
+2022-11-09 12:38:59,563  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 12:39:02,249  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 12:39:05,435  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 12:39:05,814  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 12:39:06,121  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:39:06,424  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:39:07,046  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 12:39:13,471  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 12:39:15,864  INFO [main] User Login Page:113 - Time Tracking clicked 
+2022-11-09 12:39:31,709  INFO [main] User Login Page:113 - Time Track clicked 
+2022-11-09 12:39:31,808  INFO [main] User Login Page:300 - Time Track Page opened succesfully
+2022-11-09 12:39:34,481  INFO [main] User Login Page:113 - Hide Time Tracking clicked 
+2022-11-09 12:39:37,094  INFO [main] User Login Page:113 - Listing clicked 
+2022-11-09 12:39:37,149  INFO [main] User Login Page:317 - Listing Page opened succesfully
+2022-11-09 12:39:40,119  INFO [main] User Login Page:113 - Billable clicked 
+2022-11-09 12:39:40,189  INFO [main] User Login Page:330 - Billable notify message popup opened succesfully
+2022-11-09 12:39:40,674  INFO [main] User Login Page:113 - Close notify message popup clicked 
+2022-11-09 12:39:43,622  INFO [main] User Login Page:113 - Non-Billable clicked 
+2022-11-09 12:39:43,699  INFO [main] User Login Page:344 - Non Billable notify message popup opened succesfully
+2022-11-09 12:39:44,168  INFO [main] User Login Page:113 - Close notify message popup clicked 
+2022-11-09 12:39:47,086  INFO [main] User Login Page:113 - Delete Entries clicked 
+2022-11-09 12:39:47,122  INFO [main] User Login Page:358 - Delete Entries notify message popup opened succesfully
+2022-11-09 12:39:47,619  INFO [main] User Login Page:113 - Close notify message popup clicked 
+2022-11-09 12:39:50,512  INFO [main] User Login Page:113 - Calendar View clicked 
+2022-11-09 12:39:50,608  INFO [main] User Login Page:372 - Calendar View Page opened succesfully
+2022-11-09 12:40:05,574  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 12:40:11,189  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 12:40:11,617  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 12:40:12,046  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 12:40:12,353  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:40:12,652  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:40:13,268  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 12:40:19,787  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 12:40:22,115  INFO [main] User Login Page:113 - Time Tracking clicked 
+2022-11-09 12:40:28,951  INFO [main] User Login Page:113 - Work Diary clicked 
+2022-11-09 12:40:29,019  INFO [main] User Login Page:388 - Work Diary Page opened succesfully
+2022-11-09 12:40:31,806  INFO [main] User Login Page:113 - Action clicked 
+2022-11-09 12:40:33,879  INFO [main] User Login Page:402 - Action Drop Down Menu opened succesfully
+2022-11-09 12:40:34,408  INFO [main] User Login Page:113 -  Close Action Drop Down clicked 
+2022-11-09 12:40:40,426  INFO [main] User Login Page:113 - View Flagged Screenshot clicked 
+2022-11-09 12:40:40,490  INFO [main] User Login Page:416 - View Flagged Screenshot Page opened succesfully
+2022-11-09 12:40:49,889  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 12:40:50,330  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 12:40:50,682  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:40:51,357  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 12:40:59,225  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 12:41:01,631  INFO [main] User Login Page:113 - Hiring clicked 
+2022-11-09 12:41:09,228  INFO [main] User Login Page:113 - Candidate List clicked 
+2022-11-09 12:41:09,336  INFO [main] User Login Page:43 - Candidate List Page opened succesfully
+2022-11-09 12:41:16,724  INFO [main] User Login Page:113 - Candidate List clicked 
+2022-11-09 12:41:16,767  INFO [main] User Login Page:57 - Add Candidate List Page opened succesfully
+2022-11-09 12:41:19,582  INFO [main] User Login Page:113 - Save Button clicked 
+2022-11-09 12:41:22,103  INFO [main] User Login Page:113 - Close Notify Message clicked 
+2022-11-09 12:41:24,281  INFO [main] User Login Page:89 - The Asterisk symbol is displayed for Select Job field
+2022-11-09 12:41:24,384  INFO [main] User Login Page:89 - The Asterisk symbol is displayed for First Name field
+2022-11-09 12:41:24,393  INFO [main] User Login Page:105 - Error message for "First Name" field is displayed as expected
+2022-11-09 12:41:24,428  INFO [main] User Login Page:89 - The Asterisk symbol is displayed for Last Name field
+2022-11-09 12:41:24,448  INFO [main] User Login Page:105 - Error message for "Last Name" field is displayed as expected
+2022-11-09 12:41:24,483  INFO [main] User Login Page:89 - The Asterisk symbol is displayed for Email field
+2022-11-09 12:41:24,512  INFO [main] User Login Page:105 - Error message for "Email" field is displayed as expected
+2022-11-09 12:41:24,549  INFO [main] User Login Page:89 - The Asterisk symbol is displayed for Mobile Number field
+2022-11-09 12:41:24,588  INFO [main] User Login Page:105 - Error message for "Mobile Number" field is displayed as expected
+2022-11-09 12:41:29,269  INFO [main] User Login Page:113 - Cancel Button clicked 
+2022-11-09 12:41:32,424  INFO [main] User Login Page:113 - Forward candidates CV clicked 
+2022-11-09 12:41:32,581  INFO [main] User Login Page:124 - Forward candidates CV Clicked succesfully
+2022-11-09 12:41:34,981  INFO [main] User Login Page:113 - Ok Button clicked 
+2022-11-09 12:41:37,569  INFO [main] User Login Page:113 - Grid View clicked 
+2022-11-09 12:41:37,569  INFO [main] User Login Page:136 - Grid View page opened succesfully
+2022-11-09 12:41:40,242  INFO [main] User Login Page:113 - List View clicked 
+2022-11-09 12:41:40,242  INFO [main] User Login Page:142 - List View page opened succesfully
+2022-11-09 12:41:42,801  INFO [main] User Login Page:113 - CheckBox clicked 
+2022-11-09 12:41:45,721  INFO [main] User Login Page:113 - Delet Button clicked 
+2022-11-09 12:41:48,118  INFO [main] User Login Page:113 - Cancel Button clicked 
+2022-11-09 12:41:53,960  INFO [main] User Login Page:113 - Manage view clicked 
+2022-11-09 12:42:07,288  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 12:42:09,934  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 12:42:13,373  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 12:42:13,792  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 12:42:14,094  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:42:14,460  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:42:15,137  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 12:42:21,849  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 12:42:24,266  INFO [main] User Login Page:113 - Hiring clicked 
+2022-11-09 12:42:29,157  INFO [main] User Login Page:113 - Consultant List clicked 
+2022-11-09 12:42:29,217  INFO [main] User Login Page:188 - Manage Consultant Page opened succesfully
+2022-11-09 12:42:34,782  INFO [main] User Login Page:113 - Add Consultant clicked 
+2022-11-09 12:42:34,823  INFO [main] User Login Page:202 - Add Consultant List Page opened succesfully
+2022-11-09 12:42:37,567  INFO [main] User Login Page:113 - Save Button clicked 
+2022-11-09 12:42:39,756  INFO [main] User Login Page:230 - The Asterisk symbol is displayed for Company Name field
+2022-11-09 12:42:39,774  INFO [main] User Login Page:246 - Error message for "Company Name" field is displayed as expected
+2022-11-09 12:42:39,807  INFO [main] User Login Page:230 - The Asterisk symbol is displayed for First Name field
+2022-11-09 12:42:39,836  INFO [main] User Login Page:246 - Error message for "First Name" field is displayed as expected
+2022-11-09 12:42:39,874  INFO [main] User Login Page:230 - The Asterisk symbol is displayed for Last Name field
+2022-11-09 12:42:39,911  INFO [main] User Login Page:246 - Error message for "Last Name" field is displayed as expected
+2022-11-09 12:42:39,944  INFO [main] User Login Page:230 - The Asterisk symbol is displayed for Email field
+2022-11-09 12:42:39,992  INFO [main] User Login Page:246 - Error message for "Email" field is displayed as expected
+2022-11-09 12:42:40,025  INFO [main] User Login Page:230 - The Asterisk symbol is displayed for Password field
+2022-11-09 12:42:40,081  INFO [main] User Login Page:246 - Error message for "Password" field is displayed as expected
+2022-11-09 12:42:40,114  INFO [main] User Login Page:230 - The Asterisk symbol is displayed for Confirm Password field
+2022-11-09 12:42:40,188  INFO [main] User Login Page:246 - Error message for "Confirm Password" field is displayed as expected
+2022-11-09 12:42:40,220  INFO [main] User Login Page:230 - The Asterisk symbol is displayed for Country field
+2022-11-09 12:42:40,301  INFO [main] User Login Page:246 - Error message for "Country" field is displayed as expected
+2022-11-09 12:42:40,336  INFO [main] User Login Page:230 - The Asterisk symbol is displayed for State field
+2022-11-09 12:42:40,427  INFO [main] User Login Page:246 - Error message for "State" field is displayed as expected
+2022-11-09 12:42:40,461  INFO [main] User Login Page:230 - The Asterisk symbol is displayed for City field
+2022-11-09 12:42:40,565  INFO [main] User Login Page:246 - Error message for "City" field is displayed as expected
+2022-11-09 12:42:40,599  INFO [main] User Login Page:230 - The Asterisk symbol is displayed for Address 1 field
+2022-11-09 12:42:40,712  INFO [main] User Login Page:246 - Error message for "Address 1" field is displayed as expected
+2022-11-09 12:42:40,745  INFO [main] User Login Page:230 - The Asterisk symbol is displayed for Phone Number field
+2022-11-09 12:42:40,866  INFO [main] User Login Page:246 - Error message for "Phone Number" field is displayed as expected
+2022-11-09 12:42:45,627  INFO [main] User Login Page:113 - Cancel Button clicked 
+2022-11-09 12:42:48,267  INFO [main] User Login Page:113 - CheckBox clicked 
+2022-11-09 12:42:50,852  INFO [main] User Login Page:113 - Delet Button clicked 
+2022-11-09 12:42:53,236  INFO [main] User Login Page:113 - Cancel Button clicked 
+2022-11-09 12:43:06,148  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 12:43:08,791  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 12:43:12,169  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 12:43:12,609  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 12:43:12,962  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:43:13,305  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:43:13,987  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 12:43:20,776  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 12:43:23,236  INFO [main] User Login Page:113 - Hiring clicked 
+2022-11-09 12:43:27,806  INFO [main] User Login Page:113 - Group List clicked 
+2022-11-09 12:43:27,873  INFO [main] User Login Page:267 - Group Listing Page opened succesfully
+2022-11-09 12:43:30,908  INFO [main] User Login Page:113 - Add Group clicked 
+2022-11-09 12:43:31,931  INFO [main] User Login Page:285 - Add Group List Page not opened succesfully
+2022-11-09 12:43:34,457  INFO [main] User Login Page:113 - Save Button clicked 
+2022-11-09 12:43:36,651  INFO [main] User Login Page:308 - The Asterisk symbol is displayed for Group Name field
+2022-11-09 12:43:36,671  INFO [main] User Login Page:324 - Error message for "Group Name" field is displayed as expected
+2022-11-09 12:43:39,182  INFO [main] User Login Page:113 - Close Button clicked 
+2022-11-09 12:43:41,674  INFO [main] User Login Page:113 - CheckBox clicked 
+2022-11-09 12:43:44,794  INFO [main] User Login Page:113 - Delet Button clicked 
+2022-11-09 12:43:47,173  INFO [main] User Login Page:113 - Cancel Button clicked 
+2022-11-09 12:44:01,404  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 12:44:04,042  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 12:44:07,312  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 12:44:07,728  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 12:44:08,033  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:44:08,334  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:44:08,956  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 12:44:15,391  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 12:44:17,755  INFO [main] User Login Page:113 - Hiring clicked 
+2022-11-09 12:44:23,153  INFO [main] User Login Page:113 - Job list clicked 
+2022-11-09 12:44:23,231  INFO [main] User Login Page:358 - Job Listing Page opened succesfully
+2022-11-09 12:44:29,193  INFO [main] User Login Page:113 - Add Job List clicked 
+2022-11-09 12:44:29,255  INFO [main] User Login Page:372 - Add Job List Page opened succesfully
+2022-11-09 12:44:32,030  INFO [main] User Login Page:113 - Save Button clicked 
+2022-11-09 12:44:34,539  INFO [main] User Login Page:113 - Close Notify Message clicked 
+2022-11-09 12:44:36,691  INFO [main] User Login Page:395 - The Asterisk symbol is displayed for Title field
+2022-11-09 12:44:36,708  INFO [main] User Login Page:411 - Error message for "Title" field is displayed as expected
+2022-11-09 12:44:36,742  INFO [main] User Login Page:395 - The Asterisk symbol is displayed for Job Title(Internal) field
+2022-11-09 12:44:36,769  INFO [main] User Login Page:411 - Error message for "Job Title(Internal)" field is displayed as expected
+2022-11-09 12:44:36,805  INFO [main] User Login Page:395 - The Asterisk symbol is displayed for Designation field
+2022-11-09 12:44:36,841  INFO [main] User Login Page:411 - Error message for "Designation" field is displayed as expected
+2022-11-09 12:44:36,877  INFO [main] User Login Page:395 - The Asterisk symbol is displayed for Enter number of positions field
+2022-11-09 12:44:36,923  INFO [main] User Login Page:411 - Error message for "Enter number of positions" field is displayed as expected
+2022-11-09 12:44:36,959  INFO [main] User Login Page:395 - The Asterisk symbol is displayed for Department field
+2022-11-09 12:44:37,018  INFO [main] User Login Page:411 - Error message for "Department" field is displayed as expected
+2022-11-09 12:44:37,057  INFO [main] User Login Page:395 - The Asterisk symbol is displayed for Start Date field
+2022-11-09 12:44:37,120  INFO [main] User Login Page:411 - Error message for "Start Date" field is displayed as expected
+2022-11-09 12:44:37,156  INFO [main] User Login Page:395 - The Asterisk symbol is displayed for Close Date field
+2022-11-09 12:44:37,227  INFO [main] User Login Page:411 - Error message for "Close Date" field is displayed as expected
+2022-11-09 12:44:37,262  INFO [main] User Login Page:395 - The Asterisk symbol is displayed for Location field
+2022-11-09 12:44:37,343  INFO [main] User Login Page:411 - Error message for "Location" field is displayed as expected
+2022-11-09 12:44:37,380  INFO [main] User Login Page:395 - The Asterisk symbol is displayed for Currency field
+2022-11-09 12:44:37,469  INFO [main] User Login Page:411 - Error message for "Currency" field is displayed as expected
+2022-11-09 12:44:37,505  INFO [main] User Login Page:395 - The Asterisk symbol is displayed for Salary Frequency field
+2022-11-09 12:44:37,603  INFO [main] User Login Page:411 - Error message for "Salary Frequency" field is displayed as expected
+2022-11-09 12:44:37,636  INFO [main] User Login Page:395 - The Asterisk symbol is displayed for Job Type field
+2022-11-09 12:44:37,748  INFO [main] User Login Page:411 - Error message for "Job Type" field is displayed as expected
+2022-11-09 12:44:37,784  INFO [main] User Login Page:395 - The Asterisk symbol is displayed for Skill field
+2022-11-09 12:44:37,908  INFO [main] User Login Page:411 - Error message for "Skill" field is displayed as expected
+2022-11-09 12:44:37,944  INFO [main] User Login Page:395 - The Asterisk symbol is displayed for Short Description field
+2022-11-09 12:44:38,076  INFO [main] User Login Page:411 - Error message for "Short Description" field is displayed as expected
+2022-11-09 12:44:38,113  INFO [main] User Login Page:395 - The Asterisk symbol is displayed for Description field
+2022-11-09 12:44:38,237  INFO [main] User Login Page:411 - Error message for "Description" field is displayed as expected
+2022-11-09 12:44:38,275  INFO [main] User Login Page:395 - The Asterisk symbol is displayed for Graduation field
+2022-11-09 12:44:38,423  INFO [main] User Login Page:411 - Error message for "Graduation" field is displayed as expected
+2022-11-09 12:44:38,457  INFO [main] User Login Page:395 - The Asterisk symbol is displayed for Post Graduation field
+2022-11-09 12:44:38,614  INFO [main] User Login Page:411 - Error message for "Post Graduation" field is displayed as expected
+2022-11-09 12:44:38,646  INFO [main] User Login Page:395 - The Asterisk symbol is displayed for Doctorate field
+2022-11-09 12:44:38,809  INFO [main] User Login Page:411 - Error message for "Doctorate" field is displayed as expected
+2022-11-09 12:44:44,110  INFO [main] User Login Page:113 - Cancel Button clicked 
+2022-11-09 12:44:49,746  INFO [main] User Login Page:113 - Card View clicked 
+2022-11-09 12:44:49,746  INFO [main] User Login Page:426 - Card View page opened succesfully
+2022-11-09 12:44:52,360  INFO [main] User Login Page:113 - List View clicked 
+2022-11-09 12:44:52,361  INFO [main] User Login Page:142 - List View page opened succesfully
+2022-11-09 12:44:54,947  INFO [main] User Login Page:113 - CheckBox clicked 
+2022-11-09 12:44:57,959  INFO [main] User Login Page:113 - Delet Button clicked 
+2022-11-09 12:45:00,317  INFO [main] User Login Page:113 - Cancel Button clicked 
+2022-11-09 12:45:04,227  INFO [main] User Login Page:113 - Manage view clicked 
+2022-11-09 12:45:17,789  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 12:45:20,436  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 12:45:23,628  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 12:45:24,041  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 12:45:24,376  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:45:24,683  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:45:25,303  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 12:45:32,082  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 12:45:34,482  INFO [main] User Login Page:113 - Hiring clicked 
+2022-11-09 12:45:40,165  INFO [main] User Login Page:113 - Job Post Report clicked 
+2022-11-09 12:45:40,233  INFO [main] User Login Page:438 - Hiring Reports Page opened succesfully
+2022-11-09 12:45:53,358  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 12:45:55,945  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 12:45:59,162  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 12:45:59,530  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 12:45:59,848  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:46:00,168  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:46:00,762  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 12:46:07,202  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 12:46:09,559  INFO [main] User Login Page:113 - Hiring clicked 
+2022-11-09 12:46:14,961  INFO [main] User Login Page:113 - Job Requisition clicked 
+2022-11-09 12:46:15,046  INFO [main] User Login Page:455 - Job Requisition Page opened succesfully
+2022-11-09 12:46:21,764  INFO [main] User Login Page:113 - Add Job Requisition clicked 
+2022-11-09 12:46:21,811  INFO [main] User Login Page:469 - Add Job Requisition Page opened succesfully
+2022-11-09 12:46:24,510  INFO [main] User Login Page:113 - Submit Button clicked 
+2022-11-09 12:46:29,281  INFO [main] User Login Page:113 - Cancel Button clicked 
+2022-11-09 12:46:42,671  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 12:46:45,491  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 12:46:48,630  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 12:46:49,008  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 12:46:49,333  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:46:49,688  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:46:50,295  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 12:46:56,666  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 12:46:59,006  INFO [main] User Login Page:113 - Hiring clicked 
+2022-11-09 12:47:05,839  INFO [main] User Login Page:113 - Offboard Employee List clicked 
+2022-11-09 12:47:05,882  INFO [main] User Login Page:491 - Offboard Employee List Page opened succesfully
+2022-11-09 12:47:11,007  INFO [main] User Login Page:113 - Add Offboard Employee clicked 
+2022-11-09 12:47:11,085  INFO [main] User Login Page:505 - Add Offboard Employee List Page opened succesfully
+2022-11-09 12:47:13,902  INFO [main] User Login Page:113 - Save Button clicked 
+2022-11-09 12:47:16,014  INFO [main] User Login Page:524 - The Asterisk symbol is displayed for Employee Name field
+2022-11-09 12:47:16,033  INFO [main] User Login Page:540 - Error message for "Employee Name" field is displayed as expected
+2022-11-09 12:47:22,852  INFO [main] User Login Page:113 - Cancel Button clicked 
+2022-11-09 12:47:35,281  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 12:47:40,809  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 12:47:41,229  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 12:47:41,624  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 12:47:41,932  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:47:42,271  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:47:42,953  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 12:47:49,325  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 12:47:51,735  INFO [main] User Login Page:113 - Hiring clicked 
+2022-11-09 12:47:56,492  INFO [main] User Login Page:113 - Policy clicked 
+2022-11-09 12:47:56,536  INFO [main] User Login Page:561 - Policy Page opened succesfully
+2022-11-09 12:48:01,467  INFO [main] User Login Page:113 - Add Policy clicked 
+2022-11-09 12:48:01,527  INFO [main] User Login Page:575 - Add Policy Page opened succesfully
+2022-11-09 12:48:04,201  INFO [main] User Login Page:113 - Save Button clicked 
+2022-11-09 12:48:08,780  INFO [main] User Login Page:113 - Cancel Button clicked 
+2022-11-09 12:48:11,623  INFO [main] User Login Page:113 - CheckBox clicked 
+2022-11-09 12:48:14,389  INFO [main] User Login Page:113 - Delet Button clicked 
+2022-11-09 12:48:16,743  INFO [main] User Login Page:113 - Cancel Button clicked 
+2022-11-09 12:48:31,070  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 12:48:34,057  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 12:48:37,244  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 12:48:37,618  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 12:48:37,926  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:48:38,263  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:48:38,917  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 12:48:45,237  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 12:48:47,620  INFO [main] User Login Page:113 - Hiring clicked 
+2022-11-09 12:48:52,505  INFO [main] User Login Page:113 - Resignation clicked 
+2022-11-09 12:48:52,542  INFO [main] User Login Page:591 - Resignation Page opened succesfully
+2022-11-09 12:48:58,409  INFO [main] User Login Page:113 - Apply Resignation clicked 
+2022-11-09 12:48:58,512  INFO [main] User Login Page:605 - Manage Resignation Page opened succesfully
+2022-11-09 12:49:01,137  INFO [main] User Login Page:113 - Save Button clicked 
+2022-11-09 12:49:05,720  INFO [main] User Login Page:113 - Cancel Button clicked 
+2022-11-09 12:49:10,626  INFO [main] User Login Page:113 - Add Offboard Employee clicked 
+2022-11-09 12:49:10,665  INFO [main] User Login Page:505 - Add Offboard Employee List Page opened succesfully
+2022-11-09 12:49:13,532  INFO [main] User Login Page:113 - Save Button clicked 
+2022-11-09 12:49:15,661  INFO [main] User Login Page:524 - The Asterisk symbol is displayed for Employee Name field
+2022-11-09 12:49:15,684  INFO [main] User Login Page:540 - Error message for "Employee Name" field is displayed as expected
+2022-11-09 12:49:22,076  INFO [main] User Login Page:113 - Cancel Button clicked 
+2022-11-09 12:49:34,578  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 12:49:37,332  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 12:49:40,541  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 12:49:40,957  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 12:49:41,279  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:49:41,610  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:49:42,273  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 12:49:48,614  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 12:49:51,067  INFO [main] User Login Page:113 - Hiring clicked 
+2022-11-09 12:49:56,432  INFO [main] User Login Page:113 - Service clicked 
+2022-11-09 12:49:56,472  INFO [main] User Login Page:633 - Vendor Services Page opened succesfully
+2022-11-09 12:50:09,381  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 12:50:12,135  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 12:50:15,495  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 12:50:15,923  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 12:50:16,267  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:50:16,623  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:50:17,281  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 12:50:24,243  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 12:50:26,623  INFO [main] User Login Page:113 - Hiring clicked 
+2022-11-09 12:50:31,773  INFO [main] User Login Page:113 - Talent Pool List clicked 
+2022-11-09 12:50:31,830  INFO [main] User Login Page:650 - Talent Pool List Page opened succesfully
+2022-11-09 12:50:39,542  INFO [main] User Login Page:113 - Add To Talent Pool List clicked 
+2022-11-09 12:50:39,630  INFO [main] User Login Page:664 - Add Talent Pool List Page opened succesfully
+2022-11-09 12:50:42,342  INFO [main] User Login Page:113 - Save Button clicked 
+2022-11-09 12:50:44,803  INFO [main] User Login Page:113 - Close Notify Message clicked 
+2022-11-09 12:50:46,958  INFO [main] User Login Page:683 - The Asterisk symbol is displayed for First Name field
+2022-11-09 12:50:46,978  INFO [main] User Login Page:699 - Error message for "First Name" field is displayed as expected
+2022-11-09 12:50:47,015  INFO [main] User Login Page:683 - The Asterisk symbol is displayed for Last Name field
+2022-11-09 12:50:47,043  INFO [main] User Login Page:699 - Error message for "Last Name" field is displayed as expected
+2022-11-09 12:50:47,088  INFO [main] User Login Page:683 - The Asterisk symbol is displayed for Email field
+2022-11-09 12:50:47,185  INFO [main] User Login Page:699 - Error message for "Email" field is displayed as expected
+2022-11-09 12:50:47,223  INFO [main] User Login Page:683 - The Asterisk symbol is displayed for Mobile Number field
+2022-11-09 12:50:47,266  INFO [main] User Login Page:704 - Error message for "Mobile Number" field is displayed as expected
+2022-11-09 12:50:47,541  INFO [main] User Login Page:699 - Error message for "Mobile Number" field is displayed as expected
+2022-11-09 12:50:52,313  INFO [main] User Login Page:113 - Cancel Button clicked 
+2022-11-09 12:50:56,028  INFO [main] User Login Page:113 - Manage view clicked 
+2022-11-09 12:51:10,770  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 12:51:13,431  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 12:51:17,012  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 12:51:17,449  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 12:51:17,804  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:51:18,166  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:51:18,844  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 12:51:25,386  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 12:51:27,779  INFO [main] User Login Page:113 - Hiring clicked 
+2022-11-09 12:51:32,336  INFO [main] User Login Page:113 - Vendor Listing clicked 
+2022-11-09 12:51:32,391  INFO [main] User Login Page:720 - Vendor Listing Page opened succesfully
+2022-11-09 12:51:36,959  INFO [main] User Login Page:113 - Add Vendor clicked 
+2022-11-09 12:51:37,008  INFO [main] User Login Page:734 - Add Vendor Listing Page opened succesfully
+2022-11-09 12:51:39,845  INFO [main] User Login Page:113 - Save Button clicked 
+2022-11-09 12:51:41,974  INFO [main] User Login Page:753 - The Asterisk symbol is displayed for Company Name field
+2022-11-09 12:51:41,993  INFO [main] User Login Page:769 - Error message for "Company Name" field is displayed as expected
+2022-11-09 12:51:42,025  INFO [main] User Login Page:753 - The Asterisk symbol is displayed for First Name field
+2022-11-09 12:51:42,052  INFO [main] User Login Page:769 - Error message for "First Name" field is displayed as expected
+2022-11-09 12:51:42,083  INFO [main] User Login Page:753 - The Asterisk symbol is displayed for Last Name field
+2022-11-09 12:51:42,119  INFO [main] User Login Page:769 - Error message for "Last Name" field is displayed as expected
+2022-11-09 12:51:42,161  INFO [main] User Login Page:753 - The Asterisk symbol is displayed for Email field
+2022-11-09 12:51:42,238  INFO [main] User Login Page:769 - Error message for "Email" field is displayed as expected
+2022-11-09 12:51:42,282  INFO [main] User Login Page:753 - The Asterisk symbol is displayed for Password field
+2022-11-09 12:51:42,333  INFO [main] User Login Page:769 - Error message for "Password" field is displayed as expected
+2022-11-09 12:51:42,369  INFO [main] User Login Page:753 - The Asterisk symbol is displayed for Confirm Password field
+2022-11-09 12:51:42,432  INFO [main] User Login Page:769 - Error message for "Confirm Password" field is displayed as expected
+2022-11-09 12:51:42,465  INFO [main] User Login Page:753 - The Asterisk symbol is displayed for Country field
+2022-11-09 12:51:42,536  INFO [main] User Login Page:769 - Error message for "Country" field is displayed as expected
+2022-11-09 12:51:42,570  INFO [main] User Login Page:753 - The Asterisk symbol is displayed for State field
+2022-11-09 12:51:42,660  INFO [main] User Login Page:769 - Error message for "State" field is displayed as expected
+2022-11-09 12:51:42,695  INFO [main] User Login Page:753 - The Asterisk symbol is displayed for City field
+2022-11-09 12:51:42,907  INFO [main] User Login Page:769 - Error message for "City" field is displayed as expected
+2022-11-09 12:51:43,127  INFO [main] User Login Page:753 - The Asterisk symbol is displayed for Address 1 field
+2022-11-09 12:51:43,263  INFO [main] User Login Page:769 - Error message for "Address 1" field is displayed as expected
+2022-11-09 12:51:43,306  INFO [main] User Login Page:753 - The Asterisk symbol is displayed for Phone Number field
+2022-11-09 12:51:43,445  INFO [main] User Login Page:769 - Error message for "Phone Number" field is displayed as expected
+2022-11-09 12:51:49,317  INFO [main] User Login Page:113 - Cancel Button clicked 
+2022-11-09 12:52:03,819  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 12:52:04,265  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 12:52:04,624  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:52:05,278  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 12:52:12,481  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 12:52:15,861  INFO [main] User Login Page:113 - Communication clicked 
+2022-11-09 12:52:23,416  INFO [main] User Login Page:113 - IVR clicked 
+2022-11-09 12:52:23,453  INFO [main] User Login Page:42 - IVR Page opened succesfully
+2022-11-09 12:52:28,760  INFO [main] User Login Page:269 - Save Button click by JS
+2022-11-09 12:52:33,979  INFO [main] User Login Page:269 - Save Button click by JS
+2022-11-09 12:52:36,145  INFO [main] User Login Page:91 - The Asterisk symbol is displayed for Title field
+2022-11-09 12:52:36,162  INFO [main] User Login Page:107 - Error message for "Title" field is displayed as expected
+2022-11-09 12:52:36,194  INFO [main] User Login Page:91 - The Asterisk symbol is displayed for Phone Number field
+2022-11-09 12:52:36,239  INFO [main] User Login Page:112 - Error message for "Phone Number" field is displayed as expected
+2022-11-09 12:52:36,615  INFO [main] User Login Page:91 - The Asterisk symbol is displayed for Status field
+2022-11-09 12:52:41,743  INFO [main] User Login Page:113 - Cancel Button clicked 
+2022-11-09 12:52:54,516  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 12:52:57,309  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 12:53:00,228  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 12:53:00,686  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 12:53:00,996  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:53:01,301  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:53:01,957  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 12:53:08,613  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 12:53:11,972  INFO [main] User Login Page:113 - Communication clicked 
+2022-11-09 12:53:16,813  INFO [main] User Login Page:113 - Meeting Recording List clicked 
+2022-11-09 12:53:16,880  INFO [main] User Login Page:126 - Meeting Recording List Page opened succesfully
+2022-11-09 12:53:29,634  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 12:53:32,276  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 12:53:35,596  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 12:53:36,007  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 12:53:36,363  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:53:36,735  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:53:37,422  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 12:53:43,549  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 12:53:46,922  INFO [main] User Login Page:113 - Communication clicked 
+2022-11-09 12:53:57,718  INFO [main] User Login Page:113 - Meeting clicked 
+2022-11-09 12:53:57,774  INFO [main] User Login Page:141 - Meeting Page opened succesfully
+2022-11-09 12:54:09,926  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 12:54:12,431  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 12:54:16,310  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 12:54:16,716  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 12:54:17,075  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:54:17,438  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:54:18,160  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 12:54:25,038  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 12:54:28,451  INFO [main] User Login Page:113 - Communication clicked 
+2022-11-09 12:54:33,789  INFO [main] User Login Page:113 - Unified Setup clicked 
+2022-11-09 12:54:33,826  INFO [main] User Login Page:156 - Unified Communication Page opened succesfully
+2022-11-09 12:54:36,479  INFO [main] User Login Page:113 - Setup clicked 
+2022-11-09 12:54:36,529  INFO [main] User Login Page:170 - Package Plan Page opened succesfully
+2022-11-09 12:54:38,756  INFO [main] User Login Page:269 - Close Setup click by JS
+2022-11-09 12:54:53,212  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 12:54:55,850  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 12:54:59,309  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 12:54:59,728  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 12:55:00,084  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:55:00,436  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:55:01,128  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 12:55:07,884  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 12:55:11,316  INFO [main] User Login Page:113 - Communication clicked 
+2022-11-09 12:55:16,214  INFO [main] User Login Page:113 - Video Recording List clicked 
+2022-11-09 12:55:16,254  INFO [main] User Login Page:188 - Video Recording List Page opened succesfully
+2022-11-09 12:55:28,593  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 12:55:28,990  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 12:55:29,355  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:55:30,048  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 12:55:37,529  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 12:55:40,055  INFO [main] User Login Page:113 - FSM clicked 
+2022-11-09 12:55:50,189  INFO [main] User Login Page:113 - Add Ticket clicked 
+2022-11-09 12:55:50,269  INFO [main] User Login Page:43 - Add Ticket Page opened succesfully
+2022-11-09 12:55:52,805  INFO [main] User Login Page:113 - Save Button clicked 
+2022-11-09 12:55:52,883  INFO [main] User Login Page:56 - Save As Draft button clicked succesfully
+2022-11-09 12:55:53,456  INFO [main] User Login Page:113 - Close Notify Message clicked 
+2022-11-09 12:55:55,594  INFO [main] User Login Page:77 - The Asterisk symbol is displayed for Subject field
+2022-11-09 12:55:55,611  INFO [main] User Login Page:93 - Error message for "Subject" field is displayed as expected
+2022-11-09 12:55:55,644  INFO [main] User Login Page:77 - The Asterisk symbol is displayed for Assigned To Department field
+2022-11-09 12:55:55,670  INFO [main] User Login Page:93 - Error message for "Assigned To Department" field is displayed as expected
+2022-11-09 12:55:55,703  INFO [main] User Login Page:77 - The Asterisk symbol is displayed for Priority field
+2022-11-09 12:55:55,737  INFO [main] User Login Page:93 - Error message for "Priority" field is displayed as expected
+2022-11-09 12:56:12,200  INFO [main] User Login Page:113 - Cancel clicked 
+2022-11-09 12:56:38,202  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 12:56:40,878  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 12:56:44,176  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 12:56:44,551  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 12:56:44,911  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:56:45,249  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:56:45,916  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 12:56:52,574  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 12:56:54,980  INFO [main] User Login Page:113 - FSM clicked 
+2022-11-09 12:57:00,510  INFO [main] User Login Page:113 - Call Center Sync Status clicked 
+2022-11-09 12:57:00,544  INFO [main] User Login Page:119 - Call Center Sync Status Page opened succesfully
+2022-11-09 12:57:13,400  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 12:57:16,052  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 12:57:18,237  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 12:57:18,644  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 12:57:19,003  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:57:19,375  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:57:20,041  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 12:57:26,584  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 12:57:29,015  INFO [main] User Login Page:113 - FSM clicked 
+2022-11-09 12:57:37,981  INFO [main] User Login Page:113 - Field Service Ticket clicked 
+2022-11-09 12:57:38,019  INFO [main] User Login Page:328 - Field Service Ticket Page opened succesfully
+2022-11-09 12:57:40,400  INFO [main] User Login Page:113 - Collapse map clicked 
+2022-11-09 12:57:43,056  INFO [main] User Login Page:113 - Assign Ticket clicked 
+2022-11-09 12:57:43,120  INFO [main] User Login Page:346 - Assign Ticket Page opened succesfully
+2022-11-09 12:57:43,611  INFO [main] User Login Page:113 - Close Notify Message clicked 
+2022-11-09 12:57:46,215  INFO [main] User Login Page:113 - Filter clicked 
+2022-11-09 12:57:46,294  INFO [main] User Login Page:361 - Filter Page opened succesfully
+2022-11-09 12:57:47,473  INFO [main] User Login Page:113 - Close button clicked 
+2022-11-09 12:57:50,626  INFO [main] User Login Page:113 - Update Status clicked 
+2022-11-09 12:57:50,713  INFO [main] User Login Page:376 - Update Statust Clicked succesfully
+2022-11-09 12:57:51,172  INFO [main] User Login Page:113 - Close Notify Message clicked 
+2022-11-09 12:57:53,749  INFO [main] User Login Page:113 - Assign Tag clicked 
+2022-11-09 12:57:53,783  INFO [main] User Login Page:391 - Assign Tag Clicked succesfully
+2022-11-09 12:57:54,264  INFO [main] User Login Page:113 - Close Notify Message clicked 
+2022-11-09 12:58:00,388  INFO [main] User Login Page:113 - Add Ticket clicked 
+2022-11-09 12:58:00,495  INFO [main] User Login Page:410 - Add Ticket Page opened succesfully
+2022-11-09 12:58:02,970  INFO [main] User Login Page:113 - Save Button clicked 
+2022-11-09 12:58:03,019  INFO [main] User Login Page:56 - Save As Draft button clicked succesfully
+2022-11-09 12:58:03,572  INFO [main] User Login Page:113 - Close Notify Message clicked 
+2022-11-09 12:58:05,735  INFO [main] User Login Page:77 - The Asterisk symbol is displayed for Subject field
+2022-11-09 12:58:05,751  INFO [main] User Login Page:93 - Error message for "Subject" field is displayed as expected
+2022-11-09 12:58:05,823  INFO [main] User Login Page:77 - The Asterisk symbol is displayed for Assigned To Department field
+2022-11-09 12:58:05,848  INFO [main] User Login Page:93 - Error message for "Assigned To Department" field is displayed as expected
+2022-11-09 12:58:05,881  INFO [main] User Login Page:77 - The Asterisk symbol is displayed for Priority field
+2022-11-09 12:58:05,915  INFO [main] User Login Page:93 - Error message for "Priority" field is displayed as expected
+2022-11-09 12:58:22,811  INFO [main] User Login Page:113 - Cancel clicked 
+2022-11-09 12:58:49,265  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 12:58:51,935  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 12:58:55,190  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 12:58:55,619  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 12:58:55,976  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:58:56,326  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:58:56,995  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 12:59:03,686  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 12:59:06,109  INFO [main] User Login Page:113 - FSM clicked 
+2022-11-09 12:59:11,977  INFO [main] User Login Page:113 - Form Builder clicked 
+2022-11-09 12:59:12,039  INFO [main] User Login Page:427 - Form Builder Page opened succesfully
+2022-11-09 12:59:15,036  INFO [main] User Login Page:113 - Add Form Builder clicked 
+2022-11-09 12:59:15,134  INFO [main] User Login Page:441 - Add Form Builder Page opened succesfully
+2022-11-09 12:59:19,403  INFO [main] User Login Page:269 - Next click by JS
+2022-11-09 12:59:21,560  INFO [main] User Login Page:464 - The Asterisk symbol is displayed for Form Name field
+2022-11-09 12:59:21,578  INFO [main] User Login Page:480 - Error message for "Form Name" field is displayed as expected
+2022-11-09 12:59:21,611  INFO [main] User Login Page:464 - The Asterisk symbol is displayed for Module field
+2022-11-09 12:59:21,637  INFO [main] User Login Page:480 - Error message for "Module" field is displayed as expected
+2022-11-09 12:59:25,868  INFO [main] User Login Page:269 - Close click by JS
+2022-11-09 12:59:41,331  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 12:59:43,914  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 12:59:47,132  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 12:59:47,581  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 12:59:47,932  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:59:48,284  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 12:59:48,926  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 12:59:56,436  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 12:59:58,866  INFO [main] User Login Page:113 - FSM clicked 
+2022-11-09 13:00:08,427  INFO [main] User Login Page:113 - FSM Report clicked 
+2022-11-09 13:00:08,472  INFO [main] User Login Page:506 - FSM Report Page opened succesfully
+2022-11-09 13:00:21,557  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 13:00:24,330  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 13:00:27,661  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 13:00:28,082  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 13:00:28,427  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:00:28,783  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:00:29,473  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 13:00:36,848  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 13:00:39,258  INFO [main] User Login Page:113 - FSM clicked 
+2022-11-09 13:00:45,147  INFO [main] User Login Page:113 - Manage Map Configuration clicked 
+2022-11-09 13:00:45,208  INFO [main] User Login Page:523 - Manage Map Configuration Page opened succesfully
+2022-11-09 13:00:48,165  INFO [main] User Login Page:113 - Add Manage Map Configuration clicked 
+2022-11-09 13:00:48,213  INFO [main] User Login Page:537 - Add Manage Map Configuration Page opened succesfully
+2022-11-09 13:00:52,454  INFO [main] User Login Page:269 - Save Button click by JS
+2022-11-09 13:00:54,592  INFO [main] User Login Page:566 - The Asterisk symbol is displayed for Title field
+2022-11-09 13:00:54,610  INFO [main] User Login Page:582 - Error message for "Title" field is displayed as expected
+2022-11-09 13:00:54,643  INFO [main] User Login Page:566 - The Asterisk symbol is displayed for API Key field
+2022-11-09 13:00:54,668  INFO [main] User Login Page:582 - Error message for "API Key" field is displayed as expected
+2022-11-09 13:00:58,898  INFO [main] User Login Page:269 - Cancel button click by JS
+2022-11-09 13:01:12,514  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 13:01:15,127  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 13:01:18,042  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 13:01:18,494  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 13:01:18,845  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:01:19,213  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:01:19,886  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 13:01:28,369  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 13:01:30,708  INFO [main] User Login Page:113 - FSM clicked 
+2022-11-09 13:01:36,973  INFO [main] User Login Page:113 - Map Extent clicked 
+2022-11-09 13:01:37,026  INFO [main] User Login Page:603 - Map Extent Page opened succesfully
+2022-11-09 13:01:40,018  INFO [main] User Login Page:113 - Add Map Extent clicked 
+2022-11-09 13:01:52,544  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 13:01:55,195  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 13:02:03,148  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 13:02:03,645  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 13:02:04,017  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:02:04,540  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:02:05,195  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 13:02:20,819  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 13:02:23,400  INFO [main] User Login Page:113 - FSM clicked 
+2022-11-09 13:02:29,665  INFO [main] User Login Page:113 - Rule Engine clicked 
+2022-11-09 13:02:29,701  INFO [main] User Login Page:635 - Rule Engine Page opened succesfully
+2022-11-09 13:02:35,379  INFO [main] User Login Page:113 - Add Rule clicked 
+2022-11-09 13:02:35,430  INFO [main] User Login Page:649 - Add Rule Engine Page opened succesfully
+2022-11-09 13:02:39,517  INFO [main] User Login Page:269 - Save Button click by JS
+2022-11-09 13:02:40,071  INFO [main] User Login Page:113 - Close notify message clicked 
+2022-11-09 13:02:42,231  INFO [main] User Login Page:673 - The Asterisk symbol is displayed for Rule Name field
+2022-11-09 13:02:42,247  INFO [main] User Login Page:689 - Error message for "Rule Name" field is displayed as expected
+2022-11-09 13:02:42,279  INFO [main] User Login Page:673 - The Asterisk symbol is displayed for Select Module field
+2022-11-09 13:02:42,346  INFO [main] User Login Page:694 - Error message for "Select Module" field is displayed as expected
+2022-11-09 13:02:42,625  INFO [main] User Login Page:673 - The Asterisk symbol is displayed for Select Action field
+2022-11-09 13:02:42,693  INFO [main] User Login Page:673 - The Asterisk symbol is displayed for Description field
+2022-11-09 13:02:42,732  INFO [main] User Login Page:689 - Error message for "Description" field is displayed as expected
+2022-11-09 13:02:49,600  INFO [main] User Login Page:269 - Cancel button click by JS
+2022-11-09 13:03:03,145  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 13:03:08,541  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 13:03:08,962  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 13:03:09,369  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 13:03:09,717  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:03:10,052  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:03:10,771  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 13:03:17,927  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 13:03:20,315  INFO [main] User Login Page:113 - FSM clicked 
+2022-11-09 13:03:28,433  INFO [main] User Login Page:113 - Service Appointment clicked 
+2022-11-09 13:03:28,481  INFO [main] User Login Page:710 - Service Appointment Page opened succesfully
+2022-11-09 13:03:36,257  INFO [main] User Login Page:113 - Add Service Appointment clicked 
+2022-11-09 13:03:36,318  INFO [main] User Login Page:745 - Manage Service Appointment Page opened succesfully
+2022-11-09 13:03:40,630  INFO [main] User Login Page:269 - Save Button click by JS
+2022-11-09 13:03:42,805  INFO [main] User Login Page:764 - The Asterisk symbol is displayed for Account field
+2022-11-09 13:03:42,824  INFO [main] User Login Page:780 - Error message for "Account" field is displayed as expected
+2022-11-09 13:03:52,027  INFO [main] User Login Page:269 - Cancel button click by JS
+2022-11-09 13:03:56,586  INFO [main] User Login Page:113 - Filter clicked 
+2022-11-09 13:03:56,799  INFO [main] User Login Page:361 - Filter Page opened succesfully
+2022-11-09 13:03:57,479  INFO [main] User Login Page:113 - Close button clicked 
+2022-11-09 13:04:00,595  INFO [main] User Login Page:113 - Gant Chart clicked 
+2022-11-09 13:04:02,296  INFO [main] User Login Page:113 - List View clicked 
+2022-11-09 13:04:04,720  INFO [main] User Login Page:113 - Setting clicked 
+2022-11-09 13:04:06,034  INFO [main] User Login Page:113 - Close Setting clicked 
+2022-11-09 13:04:08,779  INFO [main] User Login Page:113 - Manage view clicked 
+2022-11-09 13:04:21,609  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 13:04:24,359  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 13:04:27,410  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 13:04:27,786  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 13:04:28,088  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:04:28,390  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:04:29,041  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 13:04:36,860  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 13:04:39,302  INFO [main] User Login Page:113 - FSM clicked 
+2022-11-09 13:04:45,031  INFO [main] User Login Page:113 - Service Crew clicked 
+2022-11-09 13:04:45,115  INFO [main] User Login Page:813 - Service Crew Page opened succesfully
+2022-11-09 13:04:47,790  INFO [main] User Login Page:113 - Add Service Crew clicked 
+2022-11-09 13:04:47,857  INFO [main] User Login Page:827 - Add Fsm Crew Page opened succesfully
+2022-11-09 13:04:50,384  INFO [main] User Login Page:113 - Save Service Crew clicked 
+2022-11-09 13:04:52,517  INFO [main] User Login Page:855 - The Asterisk symbol is displayed for Crew Name field
+2022-11-09 13:04:52,533  INFO [main] User Login Page:871 - Error message for "Crew Name" field is displayed as expected
+2022-11-09 13:04:52,565  INFO [main] User Login Page:855 - The Asterisk symbol is displayed for Crew Size field
+2022-11-09 13:04:52,591  INFO [main] User Login Page:871 - Error message for "Crew Size" field is displayed as expected
+2022-11-09 13:04:52,626  INFO [main] User Login Page:855 - The Asterisk symbol is displayed for Service Territory field
+2022-11-09 13:04:52,672  INFO [main] User Login Page:876 - Error message for "Service Territory" field is displayed as expected
+2022-11-09 13:04:55,493  INFO [main] User Login Page:113 - Cancel clicked 
+2022-11-09 13:05:10,505  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 13:05:13,085  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 13:05:15,973  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 13:05:16,400  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 13:05:16,754  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:05:17,053  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:05:17,678  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 13:05:24,996  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 13:05:27,373  INFO [main] User Login Page:113 - FSM clicked 
+2022-11-09 13:05:33,058  INFO [main] User Login Page:113 - Service Resource clicked 
+2022-11-09 13:05:33,128  INFO [main] User Login Page:892 - Service Resource Page opened succesfully
+2022-11-09 13:05:35,718  INFO [main] User Login Page:113 - Add Service Crew clicked 
+2022-11-09 13:05:35,843  INFO [main] User Login Page:906 - Add Fsm Resource Page opened succesfully
+2022-11-09 13:05:38,328  INFO [main] User Login Page:113 - Save Service Crew clicked 
+2022-11-09 13:05:40,449  INFO [main] User Login Page:925 - The Asterisk symbol is displayed for Resource Name field
+2022-11-09 13:05:40,467  INFO [main] User Login Page:941 - Error message for "Resource Name" field is displayed as expected
+2022-11-09 13:05:40,501  INFO [main] User Login Page:925 - The Asterisk symbol is displayed for User field
+2022-11-09 13:05:40,528  INFO [main] User Login Page:941 - Error message for "User" field is displayed as expected
+2022-11-09 13:05:40,562  INFO [main] User Login Page:925 - The Asterisk symbol is displayed for Resource Type field
+2022-11-09 13:05:40,625  INFO [main] User Login Page:946 - Error message for "Resource Type" field is displayed as expected
+2022-11-09 13:05:40,923  INFO [main] User Login Page:925 - The Asterisk symbol is displayed for Service Territory field
+2022-11-09 13:05:43,467  INFO [main] User Login Page:113 - Cancel clicked 
+2022-11-09 13:05:59,173  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 13:06:04,957  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 13:06:05,377  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 13:06:05,784  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 13:06:06,127  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:06:06,433  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:06:07,038  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 13:06:14,484  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 13:06:16,856  INFO [main] User Login Page:113 - FSM clicked 
+2022-11-09 13:06:22,409  INFO [main] User Login Page:113 - Service Territory clicked 
+2022-11-09 13:06:22,466  INFO [main] User Login Page:962 - Service Territory Page opened succesfully
+2022-11-09 13:06:25,170  INFO [main] User Login Page:113 - Add Service Territory clicked 
+2022-11-09 13:06:25,280  INFO [main] User Login Page:976 - Add Service Territory Page opened succesfully
+2022-11-09 13:06:27,836  INFO [main] User Login Page:113 - Save Service Crew clicked 
+2022-11-09 13:06:29,972  INFO [main] User Login Page:995 - The Asterisk symbol is displayed for Territory Name field
+2022-11-09 13:06:29,990  INFO [main] User Login Page:1011 - Error message for "Territory Name" field is displayed as expected
+2022-11-09 13:06:32,583  INFO [main] User Login Page:113 - Cancel clicked 
+2022-11-09 13:06:47,683  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 13:06:50,319  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 13:06:53,665  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 13:06:54,056  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 13:06:54,367  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:06:54,665  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:06:55,268  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 13:07:03,006  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 13:07:05,362  INFO [main] User Login Page:113 - FSM clicked 
+2022-11-09 13:07:11,240  INFO [main] User Login Page:113 - Tech Tracking clicked 
+2022-11-09 13:07:11,280  INFO [main] User Login Page:1032 - Tech Tracking Page opened succesfully
+2022-11-09 13:07:26,583  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 13:07:29,201  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 13:07:32,345  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 13:07:32,752  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 13:07:33,060  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:07:33,391  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:07:34,024  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 13:07:41,307  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 13:07:43,647  INFO [main] User Login Page:113 - FSM clicked 
+2022-11-09 13:08:02,054  INFO [main] User Login Page:113 - Ticketing clicked 
+2022-11-09 13:08:02,716  INFO [main] User Login Page:1049 - Ticketing Page opened succesfully
+2022-11-09 13:08:11,066  INFO [main] User Login Page:113 - Add Ticket clicked 
+2022-11-09 13:08:11,175  INFO [main] User Login Page:1063 - Add Ticketing Page opened succesfully
+2022-11-09 13:08:13,662  INFO [main] User Login Page:113 - Save Button clicked 
+2022-11-09 13:08:13,726  INFO [main] User Login Page:56 - Save As Draft button clicked succesfully
+2022-11-09 13:08:14,296  INFO [main] User Login Page:113 - Close Notify Message clicked 
+2022-11-09 13:08:16,465  INFO [main] User Login Page:77 - The Asterisk symbol is displayed for Subject field
+2022-11-09 13:08:16,482  INFO [main] User Login Page:93 - Error message for "Subject" field is displayed as expected
+2022-11-09 13:08:16,522  INFO [main] User Login Page:77 - The Asterisk symbol is displayed for Assigned To Department field
+2022-11-09 13:08:16,551  INFO [main] User Login Page:93 - Error message for "Assigned To Department" field is displayed as expected
+2022-11-09 13:08:16,587  INFO [main] User Login Page:77 - The Asterisk symbol is displayed for Priority field
+2022-11-09 13:08:16,620  INFO [main] User Login Page:93 - Error message for "Priority" field is displayed as expected
+2022-11-09 13:08:34,580  INFO [main] User Login Page:113 - Cancel clicked 
+2022-11-09 13:08:52,376  INFO [main] User Login Page:113 - CheckBox clicked 
+2022-11-09 13:08:55,778  INFO [main] User Login Page:113 - Update Status clicked 
+2022-11-09 13:08:55,869  INFO [main] User Login Page:1081 - Update Statust Clicked succesfully
+2022-11-09 13:08:58,442  INFO [main] User Login Page:113 - Cancel Button clicked 
+2022-11-09 13:09:27,256  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 13:09:32,685  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 13:09:33,197  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 13:09:33,612  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 13:09:33,963  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:09:34,256  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:09:34,893  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 13:09:42,075  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 13:09:44,496  INFO [main] User Login Page:113 - FSM clicked 
+2022-11-09 13:09:50,261  INFO [main] User Login Page:113 - Transform Pending clicked 
+2022-11-09 13:09:50,336  INFO [main] User Login Page:1103 - Transform Pending Page opened succesfully
+2022-11-09 13:10:03,903  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 13:10:09,278  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 13:10:09,707  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 13:10:10,083  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 13:10:10,443  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:10:10,803  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:10:11,463  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 13:10:19,556  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 13:10:21,935  INFO [main] User Login Page:113 - FSM clicked 
+2022-11-09 13:10:28,080  INFO [main] User Login Page:113 - Unassigned Tickets clicked 
+2022-11-09 13:10:28,195  INFO [main] User Login Page:1120 - Unassigned Tickets Page opened succesfully
+2022-11-09 13:10:30,563  INFO [main] User Login Page:113 - Collapse map clicked 
+2022-11-09 13:10:33,236  INFO [main] User Login Page:113 - Assign Ticket clicked 
+2022-11-09 13:10:33,311  INFO [main] User Login Page:346 - Assign Ticket Page opened succesfully
+2022-11-09 13:10:33,799  INFO [main] User Login Page:113 - Close Notify Message clicked 
+2022-11-09 13:10:36,357  INFO [main] User Login Page:113 - Filter clicked 
+2022-11-09 13:10:36,403  INFO [main] User Login Page:361 - Filter Page opened succesfully
+2022-11-09 13:10:37,653  INFO [main] User Login Page:113 - Close button clicked 
+2022-11-09 13:10:40,783  INFO [main] User Login Page:113 - Update Status clicked 
+2022-11-09 13:10:40,831  INFO [main] User Login Page:376 - Update Statust Clicked succesfully
+2022-11-09 13:10:41,296  INFO [main] User Login Page:113 - Close Notify Message clicked 
+2022-11-09 13:10:43,812  INFO [main] User Login Page:113 - Assign Tag clicked 
+2022-11-09 13:10:43,849  INFO [main] User Login Page:391 - Assign Tag Clicked succesfully
+2022-11-09 13:10:44,316  INFO [main] User Login Page:113 - Close Notify Message clicked 
+2022-11-09 13:10:51,558  INFO [main] User Login Page:113 - Add Ticket clicked 
+2022-11-09 13:10:51,641  INFO [main] User Login Page:410 - Add Ticket Page opened succesfully
+2022-11-09 13:10:54,130  INFO [main] User Login Page:113 - Save Button clicked 
+2022-11-09 13:10:54,225  INFO [main] User Login Page:56 - Save As Draft button clicked succesfully
+2022-11-09 13:10:54,843  INFO [main] User Login Page:113 - Close Notify Message clicked 
+2022-11-09 13:10:56,978  INFO [main] User Login Page:77 - The Asterisk symbol is displayed for Subject field
+2022-11-09 13:10:56,997  INFO [main] User Login Page:93 - Error message for "Subject" field is displayed as expected
+2022-11-09 13:10:57,032  INFO [main] User Login Page:77 - The Asterisk symbol is displayed for Assigned To Department field
+2022-11-09 13:10:57,060  INFO [main] User Login Page:93 - Error message for "Assigned To Department" field is displayed as expected
+2022-11-09 13:10:57,094  INFO [main] User Login Page:77 - The Asterisk symbol is displayed for Priority field
+2022-11-09 13:10:57,131  INFO [main] User Login Page:93 - Error message for "Priority" field is displayed as expected
+2022-11-09 13:11:15,506  INFO [main] User Login Page:113 - Cancel clicked 
+2022-11-09 13:11:44,145  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 13:11:49,637  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 13:11:50,109  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 13:11:50,499  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 13:11:50,847  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:11:51,240  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:11:51,910  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 13:11:59,027  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 13:12:01,422  INFO [main] User Login Page:113 - FSM clicked 
+2022-11-09 13:12:06,537  INFO [main] User Login Page:113 - Work Type Listing clicked 
+2022-11-09 13:12:06,571  INFO [main] User Login Page:1136 - Work Type Listing Page opened succesfully
+2022-11-09 13:12:11,623  INFO [main] User Login Page:113 - Add Work Type Listing clicked 
+2022-11-09 13:12:11,658  INFO [main] User Login Page:1150 - Manage Work Type Listing Page opened succesfully
+2022-11-09 13:12:14,264  INFO [main] User Login Page:113 - Save Button clicked 
+2022-11-09 13:12:16,444  INFO [main] User Login Page:1178 - The Asterisk symbol is displayed for Work Type Name field
+2022-11-09 13:12:16,504  INFO [main] User Login Page:1199 - Error message for "Work Type Name" field is displayed as expected
+2022-11-09 13:12:16,787  INFO [main] User Login Page:1178 - The Asterisk symbol is displayed for Duration Type field
+2022-11-09 13:12:16,804  INFO [main] User Login Page:1194 - Error message for "Duration Type" field is displayed as expected
+2022-11-09 13:12:16,836  INFO [main] User Login Page:1178 - The Asterisk symbol is displayed for Max Duration field
+2022-11-09 13:12:16,863  INFO [main] User Login Page:1194 - Error message for "Max Duration" field is displayed as expected
+2022-11-09 13:12:21,870  INFO [main] User Login Page:113 - Cancel Button clicked 
+2022-11-09 13:12:35,067  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 13:12:37,691  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 13:12:41,019  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 13:12:41,484  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 13:12:41,856  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:12:42,190  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:12:42,858  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 13:12:50,843  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 13:12:53,281  INFO [main] User Login Page:113 - FSM clicked 
+2022-11-09 13:13:06,293  INFO [main] User Login Page:113 - Zone Management clicked 
+2022-11-09 13:13:06,375  INFO [main] User Login Page:1215 - Zone Management Page opened succesfully
+2022-11-09 13:13:09,129  INFO [main] User Login Page:113 - Import clicked 
+2022-11-09 13:13:09,210  INFO [main] User Login Page:1229 - Upload Page opened succesfully
+2022-11-09 13:13:13,541  INFO [main] User Login Page:269 - Cancel Button click by JS
+2022-11-09 13:13:40,030  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 13:13:42,685  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 13:13:48,542  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 13:13:48,990  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 13:13:49,317  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:13:50,144  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:13:50,873  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 13:14:04,530  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 13:14:07,082  INFO [main] User Login Page:113 - FSM clicked 
+2022-11-09 13:14:16,535  INFO [main] User Login Page:113 - DashBoard clicked 
+2022-11-09 13:14:16,677  INFO [main] User Login Page:1250 - DashBoard Page opened succesfully
+2022-11-09 13:14:19,579  INFO [main] User Login Page:113 - Add More clicked 
+2022-11-09 13:14:19,648  INFO [main] User Login Page:1264 - Add more Page opened succesfully
+2022-11-09 13:14:22,189  INFO [main] User Login Page:113 - Cancel Button clicked 
+2022-11-09 13:15:41,647  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 13:15:42,024  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 13:15:42,358  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:15:43,009  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 13:15:54,687  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 13:15:57,014  INFO [main] User Login Page:113 - Training clicked 
+2022-11-09 13:16:02,966  INFO [main] User Login Page:113 - Training SubModule clicked 
+2022-11-09 13:16:03,010  INFO [main] User Login Page:42 - Training Page opened succesfully
+2022-11-09 13:16:05,848  INFO [main] User Login Page:113 - Page Tour clicked 
+2022-11-09 13:16:07,911  INFO [main] User Login Page:57 - Tour guide opened succesfully
+2022-11-09 13:16:08,540  INFO [main] User Login Page:113 - Close Tour guide clicked 
+2022-11-09 13:16:18,065  INFO [main] User Login Page:113 - Add Training clicked 
+2022-11-09 13:16:18,104  INFO [main] User Login Page:72 - Manage Training Page opened succesfully
+2022-11-09 13:16:20,906  INFO [main] User Login Page:113 - Save Button clicked 
+2022-11-09 13:16:26,582  INFO [main] User Login Page:113 - Back to list clicked 
+2022-11-09 13:16:29,568  INFO [main] User Login Page:113 - Check Box clicked 
+2022-11-09 13:16:33,318  INFO [main] User Login Page:113 - Delete Button clicked 
+2022-11-09 13:16:35,446  INFO [main] User Login Page:143 - Delete Notify Message PopUp opened succesfully
+2022-11-09 13:16:36,080  INFO [main] User Login Page:113 - Cancel Button clicked 
+2022-11-09 13:16:51,379  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 13:16:54,154  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 13:16:59,959  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 13:17:00,490  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 13:17:01,278  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:17:02,107  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:17:03,222  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 13:17:19,117  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 13:17:21,707  INFO [main] User Login Page:113 - Training clicked 
+2022-11-09 13:17:28,194  INFO [main] User Login Page:113 - Training Report clicked 
+2022-11-09 13:17:28,293  INFO [main] User Login Page:160 - Training Report Page opened succesfully
+2022-11-09 13:18:54,153  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 13:18:54,558  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 13:18:54,892  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:18:55,540  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 13:19:05,614  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 13:19:07,991  INFO [main] User Login Page:113 - Project Management clicked 
+2022-11-09 13:19:13,750  INFO [main] User Login Page:113 - Global Task clicked 
+2022-11-09 13:19:13,803  INFO [main] User Login Page:42 - Manage Global Tasks Page opened succesfully
+2022-11-09 13:19:19,211  INFO [main] User Login Page:113 - Add Global Task clicked 
+2022-11-09 13:19:19,257  INFO [main] User Login Page:56 - Add Global Tasks Page opened succesfully
+2022-11-09 13:19:21,951  INFO [main] User Login Page:113 - Save Button clicked 
+2022-11-09 13:19:24,088  INFO [main] User Login Page:89 - The Asterisk symbol is displayed for Task Name field
+2022-11-09 13:19:24,108  INFO [main] User Login Page:105 - Error message for "Task Name" field is displayed as expected
+2022-11-09 13:19:24,144  INFO [main] User Login Page:89 - The Asterisk symbol is displayed for Task Rate field
+2022-11-09 13:19:24,176  INFO [main] User Login Page:105 - Error message for "Task Rate" field is displayed as expected
+2022-11-09 13:19:30,358  INFO [main] User Login Page:113 - cancel Button clicked 
+2022-11-09 13:19:43,682  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 13:19:46,307  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 13:19:54,018  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 13:19:54,611  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 13:19:55,377  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:19:56,058  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:19:56,779  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 13:20:06,303  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 13:20:08,757  INFO [main] User Login Page:113 - Project Management clicked 
+2022-11-09 13:20:28,069  INFO [main] User Login Page:113 - Project clicked 
+2022-11-09 13:20:28,645  INFO [main] User Login Page:126 - Manage Projects Page opened succesfully
+2022-11-09 13:20:31,935  INFO [main] User Login Page:113 - Page Tour clicked 
+2022-11-09 13:20:32,176  INFO [main] User Login Page:139 - Page Tour Page opened succesfully
+2022-11-09 13:20:33,130  INFO [main] User Login Page:113 - Close Page Tour Guide PopUp clicked 
+2022-11-09 13:20:36,255  INFO [main] User Login Page:113 - Card View clicked 
+2022-11-09 13:20:40,937  INFO [main] User Login Page:113 - Kanban View clicked 
+2022-11-09 13:20:45,908  INFO [main] User Login Page:113 - List View clicked 
+2022-11-09 13:20:51,444  INFO [main] User Login Page:113 - Import Projects clicked 
+2022-11-09 13:20:51,950  INFO [main] User Login Page:165 - Import Projectss Page opened succesfully
+2022-11-09 13:20:52,811  INFO [main] User Login Page:113 - Close Import Projects Popup clicked 
+2022-11-09 13:20:55,931  INFO [main] User Login Page:113 - Manage Template clicked 
+2022-11-09 13:20:58,095  INFO [main] User Login Page:196 - Manage Template Page opened succesfully
+2022-11-09 13:21:00,995  INFO [main] User Login Page:113 - cancel Button clicked 
+2022-11-09 13:21:04,803  INFO [main] User Login Page:113 - CheckBox clicked 
+2022-11-09 13:21:07,844  INFO [main] User Login Page:113 - Assign Tag clicked 
+2022-11-09 13:21:08,224  INFO [main] User Login Page:215 - Assign Tag Page opened succesfully
+2022-11-09 13:21:11,086  INFO [main] User Login Page:113 - Cancel Button clicked 
+2022-11-09 13:21:14,262  INFO [main] User Login Page:113 - Update Status clicked 
+2022-11-09 13:21:14,511  INFO [main] User Login Page:230 - Update Status Page opened succesfully
+2022-11-09 13:21:17,510  INFO [main] User Login Page:113 - Cancel Button clicked 
+2022-11-09 13:21:20,805  INFO [main] User Login Page:113 - Delete clicked 
+2022-11-09 13:21:20,937  INFO [main] User Login Page:245 - Delete Popup opened succesfully
+2022-11-09 13:21:23,347  INFO [main] User Login Page:113 - Cancel Button clicked 
+2022-11-09 13:21:26,504  INFO [main] User Login Page:113 - Add Projects clicked 
+2022-11-09 13:21:40,502  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 13:21:43,336  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 13:22:01,060  INFO [main] User Login Page:78 - User Name not entered with value - gyal@mailinator.com, error exist - java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.clear()" because "element" is null
+2022-11-09 13:31:18,876  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 13:31:19,295  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 13:31:19,599  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:31:20,230  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 13:31:28,852  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 13:31:31,321  INFO [main] User Login Page:113 - Integration clicked 
+2022-11-09 13:31:51,520  INFO [main] User Login Page:113 - Basecamp clicked 
+2022-11-09 13:31:52,196  INFO [main] User Login Page:47 - Basecamp Integration Page opened succesfully
+2022-11-09 13:32:12,906  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 13:32:21,519  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 13:32:22,637  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 13:32:23,198  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 13:32:23,616  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:32:24,276  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:32:25,155  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 13:32:32,614  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 13:32:35,100  INFO [main] User Login Page:113 - Integration clicked 
+2022-11-09 13:32:41,067  INFO [main] User Login Page:113 - Email clicked 
+2022-11-09 13:32:41,411  INFO [main] User Login Page:104 - Email Account Configuration Page opened succesfully
+2022-11-09 13:32:56,522  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 13:32:59,155  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 13:33:05,344  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 13:33:06,172  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 13:33:06,660  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:33:07,411  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:33:08,139  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 13:33:15,782  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 13:33:18,983  INFO [main] User Login Page:113 - Integration clicked 
+2022-11-09 13:33:26,576  INFO [main] User Login Page:113 - FreshBooks clicked 
+2022-11-09 13:33:26,659  INFO [main] User Login Page:122 - Freshbook Integration Page opened succesfully
+2022-11-09 13:33:43,714  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 13:33:46,386  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 13:33:51,667  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 13:33:52,135  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 13:33:52,730  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:33:53,412  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:33:54,209  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 13:34:06,139  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 13:34:08,675  INFO [main] User Login Page:113 - Integration clicked 
+2022-11-09 13:34:18,199  INFO [main] User Login Page:113 - GPS Tracking clicked 
+2022-11-09 13:34:18,653  INFO [main] User Login Page:139 - GPS Tracking Page opened succesfully
+2022-11-09 13:34:23,462  INFO [main] User Login Page:113 - Add Device Integration clicked 
+2022-11-09 13:34:23,539  INFO [main] User Login Page:154 - Manage Device Page opened succesfully
+2022-11-09 13:34:28,182  INFO [main] User Login Page:113 - Back To List clicked 
+2022-11-09 13:34:42,700  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 13:34:45,346  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 13:34:48,723  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 13:34:49,104  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 13:34:49,443  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:34:49,743  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:34:50,392  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 13:34:56,867  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 13:34:59,296  INFO [main] User Login Page:113 - Integration clicked 
+2022-11-09 13:35:04,480  INFO [main] User Login Page:113 - IVR clicked 
+2022-11-09 13:35:04,528  INFO [main] User Login Page:176 - Add IVR Page opened succesfully
+2022-11-09 13:35:08,870  INFO [main] User Login Page:269 - Add Child click by JS
+2022-11-09 13:35:08,959  INFO [main] User Login Page:191 - Add child added succesfully
+2022-11-09 13:35:13,162  INFO [main] User Login Page:269 - Delete Button click by JS
+2022-11-09 13:35:19,461  INFO [main] User Login Page:269 - Add More click by JS
+2022-11-09 13:35:19,514  INFO [main] User Login Page:210 - Add More added succesfully
+2022-11-09 13:35:23,562  INFO [main] User Login Page:269 - Delete Button click by JS
+2022-11-09 13:35:29,811  INFO [main] User Login Page:269 - Save Button click by JS
+2022-11-09 13:35:31,965  INFO [main] User Login Page:245 - The Asterisk symbol is displayed for Title field
+2022-11-09 13:35:31,984  INFO [main] User Login Page:261 - Error message for "Title" field is displayed as expected
+2022-11-09 13:35:32,016  INFO [main] User Login Page:245 - The Asterisk symbol is displayed for Phone Number field
+2022-11-09 13:35:32,070  INFO [main] User Login Page:266 - Error message for "Phone Number" field is displayed as expected
+2022-11-09 13:35:38,520  INFO [main] User Login Page:245 - The Asterisk symbol is displayed for Status field
+2022-11-09 13:35:45,198  INFO [main] User Login Page:269 - Cancel Button click by JS
+2022-11-09 13:35:57,909  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 13:36:00,786  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 13:36:04,601  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 13:36:05,043  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 13:36:05,404  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:36:05,747  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:36:06,450  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 13:36:13,526  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 13:36:15,878  INFO [main] User Login Page:113 - Integration clicked 
+2022-11-09 13:36:21,713  INFO [main] User Login Page:113 - Microsoft Project Plan clicked 
+2022-11-09 13:36:21,754  INFO [main] User Login Page:282 - Microsoft Project Plan Page opened succesfully
+2022-11-09 13:36:24,065  INFO [main] User Login Page:113 - Import clicked 
+2022-11-09 13:36:24,115  INFO [main] User Login Page:297 - Notify message popup open succesfully
+2022-11-09 13:36:26,691  INFO [main] User Login Page:113 - Close Notify Message clicked 
+2022-11-09 13:36:33,265  INFO [main] User Login Page:269 - Cancel Button click by JS
+2022-11-09 13:36:47,977  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 13:36:50,654  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 13:36:54,204  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 13:36:54,592  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 13:36:54,912  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:36:55,214  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:36:55,822  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 13:37:02,566  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 13:37:04,975  INFO [main] User Login Page:113 - Integration clicked 
+2022-11-09 13:37:14,390  INFO [main] User Login Page:113 - QuickBooks clicked 
+2022-11-09 13:37:14,432  INFO [main] User Login Page:316 - QuickBooks Login Page opened succesfully
+2022-11-09 13:37:30,559  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 13:37:33,261  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 13:37:36,453  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 13:37:36,872  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 13:37:37,176  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:37:37,477  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:37:38,102  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 13:37:44,646  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 13:37:47,008  INFO [main] User Login Page:113 - Integration clicked 
+2022-11-09 13:37:52,456  INFO [main] User Login Page:113 - Salesforce clicked 
+2022-11-09 13:37:52,506  INFO [main] User Login Page:333 - Group Event Page opened succesfully
+2022-11-09 13:38:05,315  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 13:38:08,018  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 13:38:11,361  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 13:38:11,788  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 13:38:12,099  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:38:12,401  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:38:13,051  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 13:38:19,660  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 13:38:22,040  INFO [main] User Login Page:113 - Integration clicked 
+2022-11-09 13:38:27,596  INFO [main] User Login Page:113 - Trello clicked 
+2022-11-09 13:38:27,635  INFO [main] User Login Page:350 - Trello Account Page opened succesfully
+2022-11-09 13:38:30,208  INFO [main] User Login Page:113 - Save Button clicked 
+2022-11-09 13:38:32,335  INFO [main] User Login Page:373 - The Asterisk symbol is displayed for Trello Key field
+2022-11-09 13:38:32,355  INFO [main] User Login Page:389 - Error message for "Trello Key" field is displayed as expected
+2022-11-09 13:38:32,392  INFO [main] User Login Page:373 - The Asterisk symbol is displayed for Trello Token field
+2022-11-09 13:38:32,422  INFO [main] User Login Page:389 - Error message for "Trello Token" field is displayed as expected
+2022-11-09 13:38:32,461  INFO [main] User Login Page:373 - The Asterisk symbol is displayed for Organization Name field
+2022-11-09 13:38:32,506  INFO [main] User Login Page:389 - Error message for "Organization Name" field is displayed as expected
+2022-11-09 13:38:45,495  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 13:38:48,262  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 13:38:51,236  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 13:38:51,608  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 13:38:51,940  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:38:52,283  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:38:52,883  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 13:38:59,406  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 13:39:01,758  INFO [main] User Login Page:113 - Integration clicked 
+2022-11-09 13:39:06,690  INFO [main] User Login Page:113 - Twilio clicked 
+2022-11-09 13:39:06,749  INFO [main] User Login Page:411 - Twilio List Page opened succesfully
+2022-11-09 13:39:11,300  INFO [main] User Login Page:113 - Add New clicked 
+2022-11-09 13:39:11,340  INFO [main] User Login Page:425 - Twilio Account Page opened succesfully
+2022-11-09 13:39:13,975  INFO [main] User Login Page:113 - Save Button clicked 
+2022-11-09 13:39:16,099  INFO [main] User Login Page:444 - The Asterisk symbol is displayed for Title field
+2022-11-09 13:39:16,118  INFO [main] User Login Page:460 - Error message for "Title" field is displayed as expected
+2022-11-09 13:39:16,153  INFO [main] User Login Page:444 - The Asterisk symbol is displayed for Account SID field
+2022-11-09 13:39:16,184  INFO [main] User Login Page:460 - Error message for "Account SID" field is displayed as expected
+2022-11-09 13:39:16,220  INFO [main] User Login Page:444 - The Asterisk symbol is displayed for Auth Token field
+2022-11-09 13:39:16,259  INFO [main] User Login Page:460 - Error message for "Auth Token" field is displayed as expected
+2022-11-09 13:39:22,594  INFO [main] User Login Page:269 - Cancel Button click by JS
+2022-11-09 13:39:35,408  INFO [main] User Login Page:269 - Logout menu click by JS
+2022-11-09 13:39:38,080  INFO [main] User Login Page:269 - Logout click by JS
+2022-11-09 13:39:41,377  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-09 13:39:41,754  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-09 13:39:42,065  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:39:42,367  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-09 13:39:42,979  INFO [main] User Login Page:113 - Login clicked 
+2022-11-09 13:39:49,336  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-09 13:39:51,663  INFO [main] User Login Page:113 - Integration clicked 
+2022-11-09 13:39:56,676  INFO [main] User Login Page:113 - Unified Setup clicked 
+2022-11-09 13:39:56,738  INFO [main] User Login Page:481 - Unified Communication Page opened succesfully
+2022-11-09 13:39:59,339  INFO [main] User Login Page:113 - Setup clicked 
+2022-11-09 13:39:59,428  INFO [main] User Login Page:496 - Package Plan Page opened succesfully
+2022-11-09 13:39:59,940  INFO [main] User Login Page:113 - Close Package Plan clicked 

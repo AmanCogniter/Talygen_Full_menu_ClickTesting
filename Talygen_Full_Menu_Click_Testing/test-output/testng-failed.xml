@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="testcases.ProjectManagementTest">
+        <methods>
+          <include name="ValidateClickTestingOfToDoListPage"/>
+          <include name="ValidateClickTestingOfRequestedTimeListPage"/>
+          <include name="ValidateClickTestingOfResourceSchedulingPage"/>
+          <include name="beforeMethod"/>
+          <include name="ValidateClickTestingOfProjectRequestPage"/>
+          <include name="close"/>
+          <include name="reportWrapUp"/>
+          <include name="ValidateClickTestingOfProjectReportPage"/>
+          <include name="setUp"/>
+          <include name="ValidateClickTestingOfTaskPage"/>
+          <include name="ValidateClickTestingOfQuotesPage"/>
+          <include name="closeBrowser"/>
+          <include name="ValidateClickTestingOfResourceImpactPage"/>
+        </methods>
+      </class> <!-- testcases.ProjectManagementTest -->
+      <class name="testcases.VDeskTest">
+        <methods>
+          <include name="ValidateClickTestingOfServerRolesPage"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+          <include name="close"/>
+          <include name="reportWrapUp"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testcases.VDeskTest -->
+      <class name="testcases.DocumentStorageTest">
+        <methods>
+          <include name="ValidateClickTestingOfManageUserStoragePage"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+          <include name="close"/>
+          <include name="reportWrapUp"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testcases.DocumentStorageTest -->
+      <class name="testcases.CrmTest">
+        <methods>
+          <include name="ValidateClickTestingOfInvoicePage"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+          <include name="close"/>
+          <include name="reportWrapUp"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testcases.CrmTest -->
+      <class name="testcases.GeneralTest">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+          <include name="ValidateClickTestingOfCustomFieldsPage"/>
+          <include name="close"/>
+          <include name="reportWrapUp"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testcases.GeneralTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
