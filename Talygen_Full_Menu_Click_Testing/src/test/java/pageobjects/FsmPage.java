@@ -792,6 +792,7 @@ public class FsmPage extends WebBasePage{
      public void clickOnGaintChart()
      {		staticWait(2000);
     	 click(By.xpath("//div/span/a[@data-original-title='Gantt Chart']"),"Gant Chart", 30);
+    	 staticWait(2000);
     	 click(By.xpath("//div/span/a[@data-original-title='List View']"),"List View", 30);
     	
      }

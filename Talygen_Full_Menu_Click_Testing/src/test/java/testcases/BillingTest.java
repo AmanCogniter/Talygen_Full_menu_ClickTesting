@@ -7,7 +7,11 @@ import org.testng.annotations.Test;
 import action.BillingAction;
 import action.LoginAction;
 import utils.WebTestBase;
-
+/**
+ * 
+ * @author aanand
+ *
+ */
 public class BillingTest extends WebTestBase{
 	static String Screenname = "<b>Automate Flag Processing</b>"; 
 	/*

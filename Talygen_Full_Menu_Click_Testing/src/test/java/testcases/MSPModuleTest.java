@@ -7,7 +7,11 @@ import org.testng.annotations.Test;
 import action.LoginAction;
 import action.MSPModuleAction;
 import utils.WebTestBase;
-
+/**
+ * 
+ * @author aanand
+ *
+ */
 public class MSPModuleTest extends WebTestBase{
 	static String Screenname = "<b>MSP Module</b>"; 
 	/*

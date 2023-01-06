@@ -28,7 +28,7 @@ public class CrmAction {
 		
 		crmPage.clickOnAccounts();	
 		crmPage.clickOnPageTourGuide();
-		crmPage.clickOnImportContact();
+		//crmPage.clickOnImportContact();
 		crmPage.clickOnImportAccounts();
 		//crmPage.clickOnPageTourGuide();
 		crmPage.clickOnAddAccounts();
@@ -156,9 +156,9 @@ public class CrmAction {
 		
 		crmPage.VerifyMandatoryFieldOfManageLeadDetail();
 		crmPage.clickOnCancelProductType();
-		crmPage.clickOnImportLead();
-		crmPage.clickOnBackToList();
-		crmPage.clickOnManageView();
+		//crmPage.clickOnImportLead();
+		//crmPage.clickOnBackToList();
+		//crmPage.clickOnManageView();
 	}
 	/*Meatod  for Product Manage Product Page */
 	public void GoToManageProductPage()
@@ -166,7 +166,7 @@ public class CrmAction {
 		
 		crmPage.clickOnManageProduct();	
 		crmPage.clickOnAddProduct();
-		crmPage.clickOnSaveProductType();
+		crmPage.clickOnSaveAddProductType();
 		crmPage.VerifyMandatoryFieldOfAddProduct();
 		crmPage.clickOnCancelProductType();
 		

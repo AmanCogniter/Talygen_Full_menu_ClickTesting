@@ -3,16 +3,16 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testcases.CrmTest">
+      <class name="testcases.VDeskTest">
         <methods>
+          <include name="ValidateClickTestingOfServerGroupsPage"/>
           <include name="closeBrowser"/>
-          <include name="ValidateClickTestingOfPurchaseOrderPage"/>
           <include name="beforeMethod"/>
           <include name="close"/>
           <include name="reportWrapUp"/>
           <include name="setUp"/>
         </methods>
-      </class> <!-- testcases.CrmTest -->
+      </class> <!-- testcases.VDeskTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

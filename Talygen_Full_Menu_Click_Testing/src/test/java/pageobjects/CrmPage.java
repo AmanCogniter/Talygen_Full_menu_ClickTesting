@@ -545,6 +545,10 @@ public class CrmPage extends WebBasePage{
      {		staticWait(2000);
     	 click(By.xpath("//div/a[@data-original-title='Save']"),"Save Button", 30);
      }
+     public void clickOnSaveAddProductType()
+     {		staticWait(2000);
+    	 click(By.xpath("//div/a[@data-original-title='Save & New']"),"Save Button", 30);
+     }
      public void clickOnCancelProductType()
      {		staticWait(3000);
     	 click(By.xpath("//div/a[@data-original-title='Cancel']"),"Cancel Button", 30);
@@ -922,7 +926,7 @@ public class CrmPage extends WebBasePage{
      }
      public void clickOncloseAddProducts()
      {		staticWait(2000);
-    	 click(By.xpath("//div/h5[text()='Add Product']/ancestor::div[@class='modal-content']/descendant::button[@data-original-title='Close']"),"Close Add Product", 30);
+    	 click(By.xpath("(//div/h5[text()='Add Product']/ancestor::div[@class='modal-content']/descendant::button[@data-original-title='Close'])[last()]"),"Close Add Product", 30);
      }
     	
      public void VerifyMandatoryFieldOfAddProducts() {

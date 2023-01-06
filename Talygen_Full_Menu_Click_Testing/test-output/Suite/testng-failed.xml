@@ -3,63 +3,72 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="testcases.ProjectManagementTest">
+      <class name="testcases.AssetManagementTest">
         <methods>
-          <include name="ValidateClickTestingOfToDoListPage"/>
-          <include name="ValidateClickTestingOfRequestedTimeListPage"/>
-          <include name="ValidateClickTestingOfResourceSchedulingPage"/>
+          <include name="ValidateClickTestingOfScannedItemsPage"/>
+          <include name="closeBrowser"/>
           <include name="beforeMethod"/>
-          <include name="ValidateClickTestingOfProjectRequestPage"/>
           <include name="close"/>
           <include name="reportWrapUp"/>
-          <include name="ValidateClickTestingOfProjectReportPage"/>
+          <include name="ValidateClickTestingOfManageProductPage"/>
           <include name="setUp"/>
-          <include name="ValidateClickTestingOfTaskPage"/>
-          <include name="ValidateClickTestingOfQuotesPage"/>
-          <include name="closeBrowser"/>
-          <include name="ValidateClickTestingOfResourceImpactPage"/>
         </methods>
-      </class> <!-- testcases.ProjectManagementTest -->
+      </class> <!-- testcases.AssetManagementTest -->
       <class name="testcases.VDeskTest">
         <methods>
+          <include name="ValidateClickTestingOfServerGroupsPage"/>
           <include name="ValidateClickTestingOfServerRolesPage"/>
           <include name="closeBrowser"/>
           <include name="beforeMethod"/>
           <include name="close"/>
           <include name="reportWrapUp"/>
           <include name="setUp"/>
+          <include name="ValidateClickTestingOfPoliciesPage"/>
         </methods>
       </class> <!-- testcases.VDeskTest -->
-      <class name="testcases.DocumentStorageTest">
-        <methods>
-          <include name="ValidateClickTestingOfManageUserStoragePage"/>
-          <include name="closeBrowser"/>
-          <include name="beforeMethod"/>
-          <include name="close"/>
-          <include name="reportWrapUp"/>
-          <include name="setUp"/>
-        </methods>
-      </class> <!-- testcases.DocumentStorageTest -->
       <class name="testcases.CrmTest">
         <methods>
-          <include name="ValidateClickTestingOfInvoicePage"/>
+          <include name="ValidateClickTestingOfLeadPage"/>
+          <include name="ValidateClickTestingOfProductPage"/>
           <include name="closeBrowser"/>
           <include name="beforeMethod"/>
+          <include name="ValidateClickTestingOfManageProductPage"/>
+          <include name="ValidateClickTestingOfAccountsPage"/>
           <include name="close"/>
           <include name="reportWrapUp"/>
           <include name="setUp"/>
         </methods>
       </class> <!-- testcases.CrmTest -->
-      <class name="testcases.GeneralTest">
+      <class name="testcases.HiringTest">
         <methods>
           <include name="closeBrowser"/>
           <include name="beforeMethod"/>
-          <include name="ValidateClickTestingOfCustomFieldsPage"/>
           <include name="close"/>
           <include name="reportWrapUp"/>
           <include name="setUp"/>
+          <include name="ValidateClickTestingOfResignationPage"/>
         </methods>
-      </class> <!-- testcases.GeneralTest -->
+      </class> <!-- testcases.HiringTest -->
+      <class name="testcases.FsmTest">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+          <include name="close"/>
+          <include name="reportWrapUp"/>
+          <include name="ValidateClickTestingOfServiceAppointmentPage"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testcases.FsmTest -->
+      <class name="testcases.AppotmentCalendarTest">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+          <include name="close"/>
+          <include name="reportWrapUp"/>
+          <include name="setUp"/>
+          <include name="ValidateClickTestingOfConsumerListPage"/>
+        </methods>
+      </class> <!-- testcases.AppotmentCalendarTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

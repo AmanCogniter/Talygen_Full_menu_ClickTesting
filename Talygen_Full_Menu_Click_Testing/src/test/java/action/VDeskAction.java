@@ -26,7 +26,8 @@ public class VDeskAction {
 	public void GoToApplicationSettingsPage()
 	{
 		
-		vDeskPage.clickOnApplicationSettings();	
+		vDeskPage.clickOnApplicationSettings();
+		//vDeskPage.clickOnCloseNotifyMessagePopup();
 		vDeskPage.clickOnAddApplicationSettings();
 	}
 	/*Method  for Application Summary Page */
@@ -97,6 +98,7 @@ public class VDeskAction {
 	{
 		
 		vDeskPage.clickOnPolicies();
+		//vDeskPage.clickOnCloseNotifyMessagePopup();
 		vDeskPage.clickOnAddPolicies();
 	
 	}
@@ -119,6 +121,7 @@ public class VDeskAction {
 	{
 		
 		vDeskPage.clickOnServerRoles();
+		//vDeskPage.clickOnCloseNotifyMessagePopup();
 		vDeskPage.clickOnAddServerRoles();
 	
 	}
@@ -127,6 +130,7 @@ public class VDeskAction {
 	{
 		
 		vDeskPage.clickOnServerGroups();
+		//vDeskPage.clickOnCloseNotifyMessagePopup();
 		vDeskPage.clickOnAddServerGroups();
 	
 	}

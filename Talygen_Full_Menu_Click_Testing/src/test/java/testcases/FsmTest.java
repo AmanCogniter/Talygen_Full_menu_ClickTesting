@@ -7,7 +7,11 @@ import org.testng.annotations.Test;
 import action.FsmAction;
 import action.LoginAction;
 import utils.WebTestBase;
-
+/**
+ * 
+ * @author aanand
+ *
+ */
 public class FsmTest extends WebTestBase{
 	static String Screenname = "<b>FSM</b>"; 
 	/*

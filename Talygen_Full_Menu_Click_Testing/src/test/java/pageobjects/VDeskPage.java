@@ -355,6 +355,10 @@ public void clickOnServerGroups()
 		logger.info("Server Groups Page not opened succesfully");
 	}
 }
+public void clickOnCloseNotifyMessagePopup()
+{		staticWait(2000);
+	 click(By.xpath("//button[@id='closenotifymessage']"),"Close Notify Message PopUp", 30);
+}
 public void clickOnAddServerGroups()
 {		staticWait(2000);
 	 click(By.xpath("//div/span/a[@data-original-title='Add']"),"Add Server Groups", 30);

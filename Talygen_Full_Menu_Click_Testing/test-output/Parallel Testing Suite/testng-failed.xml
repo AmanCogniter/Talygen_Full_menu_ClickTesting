@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Parallel Testing Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="tests" name="Parallel Tests1(failed)">
+    <classes>
+      <class name="testcases.DisplayScreenTest">
+        <methods>
+          <include name="ValidateClickTestingOfTokenPage"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+          <include name="close"/>
+          <include name="reportWrapUp"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testcases.DisplayScreenTest -->
+      <class name="testcases.AssetManagementTest">
+        <methods>
+          <include name="ValidateClickTestingOfProductsScanSummaryPage"/>
+          <include name="ValidateClickTestingOfScannedItemsPage"/>
+          <include name="beforeMethod"/>
+          <include name="close"/>
+          <include name="reportWrapUp"/>
+          <include name="ValidateClickTestingOfReturnListPage"/>
+          <include name="setUp"/>
+          <include name="ValidateClickTestingOfRFIDAssetListingPage"/>
+          <include name="ValidateClickTestingOfMyProductPage"/>
+          <include name="ValidateClickTestingOfScannedItemsStatusPage"/>
+          <include name="ValidateClickTestingOfDashboardPage"/>
+          <include name="ValidateClickTestingOfProductTyperPage"/>
+          <include name="closeBrowser"/>
+          <include name="ValidateClickTestingOfGroupListPage"/>
+          <include name="ValidateClickTestingOfMissingProductPage"/>
+          <include name="ValidateClickTestingOfProductContainerPage"/>
+          <include name="ValidateClickTestingOfProductWriteOffPage"/>
+          <include name="ValidateClickTestingOfManageProductPage"/>
+          <include name="ValidateClickTestingOfProductAssignmentPage"/>
+          <include name="ValidateClickTestingOfProductReportPage"/>
+        </methods>
+      </class> <!-- testcases.AssetManagementTest -->
+      <class name="testcases.CrmTest">
+        <methods>
+          <include name="ValidateClickTestingOfProductPage"/>
+          <include name="ValidateClickTestingOfInvoicePage"/>
+          <include name="ValidateClickTestingOfCampaignPage"/>
+          <include name="ValidateClickTestingOfPurchaseOrderPage"/>
+          <include name="beforeMethod"/>
+          <include name="ValidateClickTestingOfCRMReportPage"/>
+          <include name="ValidateClickTestingOfBrandPage"/>
+          <include name="close"/>
+          <include name="reportWrapUp"/>
+          <include name="setUp"/>
+          <include name="ValidateClickTestingOfCommunicationPage"/>
+          <include name="ValidateClickTestingOfgoodsInwardPage"/>
+          <include name="ValidateClickTestingOfContactsPage"/>
+          <include name="ValidateClickTestingOfStagesPage"/>
+          <include name="ValidateClickTestingOfSalesOrderPage"/>
+          <include name="ValidateClickTestingOfLeadPage"/>
+          <include name="closeBrowser"/>
+          <include name="ValidateClickTestingOfProductTypePage"/>
+          <include name="ValidateClickTestingOfDEalsPage"/>
+          <include name="ValidateClickTestingOfQuotePage"/>
+          <include name="ValidateClickTestingOfManageProductPage"/>
+          <include name="ValidateClickTestingOfContractsPage"/>
+          <include name="ValidateClickTestingOfPriceBookPage"/>
+          <include name="ValidateClickTestingOfVendorPage"/>
+        </methods>
+      </class> <!-- testcases.CrmTest -->
+      <class name="testcases.ExpenseTest">
+        <methods>
+          <include name="ValidateClickTestingOfExpenseDashBoardPage"/>
+          <include name="ValidateClickTestingOfProjectPage"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+          <include name="ValidateClickTestingOfExpensesPage"/>
+          <include name="ValidateClickTestingOfExpenseReportsPage"/>
+          <include name="close"/>
+          <include name="reportWrapUp"/>
+          <include name="ValidateClickTestingOfExpenseApprovalPage"/>
+          <include name="ValidateClickTestingOfBulkUploadExpensePage"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testcases.ExpenseTest -->
+      <class name="testcases.EventManagementTest">
+        <methods>
+          <include name="ValidateClickTestingOfEventManagementPage"/>
+          <include name="ValidateClickTestingOfGoogleCalendarPage"/>
+          <include name="ValidateClickTestingOfUserAvailabilityPage"/>
+          <include name="ValidateClickTestingOfDashBoardPage"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+          <include name="ValidateClickTestingOfCalendarPage"/>
+          <include name="close"/>
+          <include name="reportWrapUp"/>
+          <include name="ValidateClickTestingOfManageVenuePage"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testcases.EventManagementTest -->
+      <class name="testcases.MSPModuleTest">
+        <methods>
+          <include name="ValidateClickTestingOfManageSubscriptionPage"/>
+          <include name="ValidateClickTestingOfManagePackagesPage"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+          <include name="ValidateClickTestingOfAddSubscriptionPage"/>
+          <include name="close"/>
+          <include name="reportWrapUp"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testcases.MSPModuleTest -->
+      <class name="testcases.BillingTest">
+        <methods>
+          <include name="ValidateClickTestingOfFlagRecordsPage"/>
+          <include name="ValidateClickTestingOfInvoiceReportPage"/>
+          <include name="beforeMethod"/>
+          <include name="ValidateClickTestingOfClientReportPage"/>
+          <include name="ValidateClickTestingOfImportInvoicePage"/>
+          <include name="close"/>
+          <include name="reportWrapUp"/>
+          <include name="setUp"/>
+          <include name="ValidateClickTestingOfInvoicePage"/>
+          <include name="ValidateClickTestingOfBillingSetupPage"/>
+          <include name="ValidateClickTestingOfReceivedInvoicePage"/>
+          <include name="closeBrowser"/>
+          <include name="ValidateClickTestingOfBillingRulePage"/>
+          <include name="ValidateClickTestingOfBillingServicePage"/>
+          <include name="ValidateClickTestingOfProcessAndReprocessChargesPage"/>
+          <include name="ValidateClickTestingOfViewHistoryPage"/>
+          <include name="ValidateClickTestingOfAddInvoicePage"/>
+        </methods>
+      </class> <!-- testcases.BillingTest -->
+      <class name="testcases.GeneralTest">
+        <methods>
+          <include name="ValidateClickTestingOfManageLayoutPage"/>
+          <include name="ValidateClickTestingOfRuleEnginePage"/>
+          <include name="beforeMethod"/>
+          <include name="ValidateClickTestingOfProvisionalRightsPage"/>
+          <include name="ValidateClickTestingOfAddReportPage"/>
+          <include name="ValidateClickTestingOfPassportInformationPage"/>
+          <include name="ValidateClickTestingOfWorkingDayPage"/>
+          <include name="close"/>
+          <include name="reportWrapUp"/>
+          <include name="ValidateClickTestingOfStoragePage"/>
+          <include name="ValidateClickTestingOfWorkingWeekPage"/>
+          <include name="setUp"/>
+          <include name="ValidateClickTestingOfOrganizationChartPage"/>
+          <include name="ValidateClickTestingOfAutoResponderPage"/>
+          <include name="closeBrowser"/>
+          <include name="ValidateClickTestingOfTagsPage"/>
+          <include name="ValidateClickTestingOfCustomFieldsPage"/>
+          <include name="ValidateClickTestingOfExternalLinkPage"/>
+          <include name="ValidateClickTestingOfCustomReportsPage"/>
+        </methods>
+      </class> <!-- testcases.GeneralTest -->
+      <class name="testcases.HumanResourcesTest">
+        <methods>
+          <include name="ValidateClickTestingOfHRReportPage"/>
+          <include name="ValidateClickTestingOfAttendancePage"/>
+          <include name="ValidateClickTestingOfConsultantListPage"/>
+          <include name="beforeMethod"/>
+          <include name="ValidateClickTestingOfGroupListPage"/>
+          <include name="close"/>
+          <include name="reportWrapUp"/>
+          <include name="ValidateClickTestingOfLeavePage"/>
+          <include name="setUp"/>
+          <include name="ValidateClickTestingOfCandidateListPage"/>
+          <include name="ValidateClickTestingOfInductionDocumentListPage"/>
+          <include name="ValidateClickTestingOfTalentPoolListPage"/>
+          <include name="ValidateClickTestingOfLeaveTypeListingPage"/>
+          <include name="ValidateClickTestingOfLeaveApprovalPage"/>
+          <include name="ValidateClickTestingOfAttendanceApprovalPage"/>
+          <include name="ValidateClickTestingOfManageCheckInPage"/>
+          <include name="closeBrowser"/>
+          <include name="ValidateClickTestingOfCheckInFlagListPage"/>
+        </methods>
+      </class> <!-- testcases.HumanResourcesTest -->
+    </classes>
+  </test> <!-- Parallel Tests1(failed) -->
+  <test thread-count="5" parallel="tests" name="Parallel Tests2(failed)">
+    <classes>
+      <class name="testcases.HiringTest">
+        <methods>
+          <include name="ValidateClickTestingOfVendorListingPage"/>
+          <include name="ValidateClickTestingOfConsultantListListPage"/>
+          <include name="ValidateClickTestingOfSertvicePage"/>
+          <include name="beforeMethod"/>
+          <include name="reportWrapUp"/>
+          <include name="close"/>
+          <include name="ValidateClickTestingOfjobListListPage"/>
+          <include name="setUp"/>
+          <include name="ValidateClickTestingOfOffboardEmployeeListPage"/>
+          <include name="closeBrowser"/>
+          <include name="ValidateClickTestingOfJobRequisitionPage"/>
+          <include name="ValidateClickTestingOfTalentPoolListPage"/>
+          <include name="ValidateClickTestingOfjobPostReportPage"/>
+          <include name="ValidateClickTestingOfGroupListListPage"/>
+          <include name="ValidateClickTestingOfCandidateListPage"/>
+          <include name="ValidateClickTestingOfPolicyPage"/>
+          <include name="ValidateClickTestingOfResignationPage"/>
+        </methods>
+      </class> <!-- testcases.HiringTest -->
+      <class name="testcases.HRManagementTest">
+        <methods>
+          <include name="ValidateClickTestingOfInductionDocumentListPage"/>
+          <include name="ValidateClickTestingOfOffboardEmployeeListPage"/>
+          <include name="ValidateClickTestingOfAttendancePage"/>
+          <include name="beforeMethod"/>
+          <include name="ValidateClickTestingOfPolicyPage"/>
+          <include name="ValidateClickTestingOfResignationPage"/>
+          <include name="reportWrapUp"/>
+          <include name="close"/>
+          <include name="ValidateClickTestingOfHrReportPage"/>
+          <include name="ValidateClickTestingOfAttendanceCardReportPage"/>
+          <include name="ValidateClickTestingOfLeavePage"/>
+          <include name="ValidateClickTestingOfLeaveTypeListingPage"/>
+          <include name="setUp"/>
+          <include name="ValidateClickTestingOfAttendanceApprovalPage"/>
+          <include name="ValidateClickTestingOfCheckInOutDisputePage"/>
+          <include name="ValidateClickTestingOfAttendanceInOutReportPage"/>
+          <include name="ValidateClickTestingOfManageCheckInPage"/>
+          <include name="ValidateClickTestingOfGroupListPage"/>
+          <include name="closeBrowser"/>
+          <include name="ValidateClickTestingOfDisputeApprovalPage"/>
+          <include name="ValidateClickTestingOfLeaveApprovalPage"/>
+          <include name="ValidateClickTestingOfCheckInFlagListPage"/>
+        </methods>
+      </class> <!-- testcases.HRManagementTest -->
+      <class name="testcases.CompanySetUpTest">
+        <methods>
+          <include name="ValidateClickTestingOfCompanyDirectoryPage"/>
+          <include name="ValidateClickTestingOfCompanySetupPage"/>
+          <include name="ValidateClickTestingOfHoliDayBankPage"/>
+          <include name="beforeMethod"/>
+          <include name="ValidateClickTestingOfRolesPage"/>
+          <include name="ValidateClickTestingOfConfigurationPage"/>
+          <include name="reportWrapUp"/>
+          <include name="close"/>
+          <include name="ValidateClickTestingOfResourceApprovalPage"/>
+          <include name="setUp"/>
+          <include name="ValidateClickTestingOfContextMenuPage"/>
+          <include name="ValidateClickTestingOfManageTaxPage"/>
+          <include name="closeBrowser"/>
+          <include name="ValidateClickTestingOfSearchVendorsPage"/>
+          <include name="ValidateClickTestingOfUserPage"/>
+          <include name="ValidateClickTestingOfManageSubscriptionPage"/>
+        </methods>
+      </class> <!-- testcases.CompanySetUpTest -->
+      <class name="testcases.ApprovalTest">
+        <methods>
+          <include name="ValidateClickTestingOfApprovalReportPage"/>
+          <include name="ValidateClickTestingOfApprovalRulePage"/>
+          <include name="closeBrowser"/>
+          <include name="ValidateClickTestingOfApprovalChainPage"/>
+          <include name="beforeMethod"/>
+          <include name="ValidateClickTestingOfApprovalGroupPage"/>
+          <include name="reportWrapUp"/>
+          <include name="close"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testcases.ApprovalTest -->
+      <class name="testcases.IntegrationTest">
+        <methods>
+          <include name="ValidateClickTestingOfIVrPage"/>
+          <include name="ValidateClickTestingOfGPSTrackingPage"/>
+          <include name="beforeMethod"/>
+          <include name="reportWrapUp"/>
+          <include name="close"/>
+          <include name="ValidateClickTestingOfMicrosoftProjectPlanPage"/>
+          <include name="setUp"/>
+          <include name="ValidateClickTestingOfFreshBookPage"/>
+          <include name="ValidateClickTestingOfUnifiedSetupPage"/>
+          <include name="ValidateClickTestingOfTrelloPage"/>
+          <include name="ValidateClickTestingOfTwilioPage"/>
+          <include name="closeBrowser"/>
+          <include name="ValidateClickTestingOfSalesForcePage"/>
+          <include name="ValidateClickTestingOfEmailPage"/>
+          <include name="ValidateClickTestingOfQuickBooksPage"/>
+        </methods>
+      </class> <!-- testcases.IntegrationTest -->
+      <class name="testcases.TimeTrackingTest">
+        <methods>
+          <include name="ValidateClickTestingOfTimeSheetPage"/>
+          <include name="ValidateClickTestingOfTimeApprovalPage"/>
+          <include name="ValidateClickTestingOfFlagTrackEntryPage"/>
+          <include name="ValidateClickTestingOfProjectReportPage"/>
+          <include name="beforeMethod"/>
+          <include name="ValidateClickTestingOfTimeTrackPage"/>
+          <include name="reportWrapUp"/>
+          <include name="close"/>
+          <include name="setUp"/>
+          <include name="ValidateClickTestingOfWorkDiaryPage"/>
+          <include name="ValidateClickTestingOfAuditRulePage"/>
+          <include name="ValidateClickTestingOfTimeReportPage"/>
+          <include name="closeBrowser"/>
+          <include name="ValidateClickTestingOfBulkTimeEntryPage"/>
+        </methods>
+      </class> <!-- testcases.TimeTrackingTest -->
+      <class name="testcases.ProjectManagementTest">
+        <methods>
+          <include name="ValidateClickTestingOfToDoListPage"/>
+          <include name="ValidateClickTestingOfRequestedTimeListPage"/>
+          <include name="ValidateClickTestingOfResourceSchedulingPage"/>
+          <include name="ValidateClickTestingOfProjectPage"/>
+          <include name="beforeMethod"/>
+          <include name="ValidateClickTestingOfProjectRequestPage"/>
+          <include name="reportWrapUp"/>
+          <include name="close"/>
+          <include name="ValidateClickTestingOfProjectReportPage"/>
+          <include name="setUp"/>
+          <include name="ValidateClickTestingOfTaskPage"/>
+          <include name="ValidateClickTestingOfQuotesPage"/>
+          <include name="closeBrowser"/>
+          <include name="ValidateClickTestingOfResourceImpactPage"/>
+        </methods>
+      </class> <!-- testcases.ProjectManagementTest -->
+      <class name="testcases.VDeskTest">
+        <methods>
+          <include name="ValidateClickTestingOfDesktopClientsPage"/>
+          <include name="ValidateClickTestingOfDatabasePage"/>
+          <include name="ValidateClickTestingOfJobsReportPage"/>
+          <include name="beforeMethod"/>
+          <include name="ValidateClickTestingOfRemoteDesktopPage"/>
+          <include name="ValidateClickTestingOfClientLogInPage"/>
+          <include name="ValidateClickTestingOfGeneralSettingsPage"/>
+          <include name="ValidateClickTestingOfJobPage"/>
+          <include name="reportWrapUp"/>
+          <include name="close"/>
+          <include name="ValidateClickTestingOfApplicationSummaryPage"/>
+          <include name="ValidateClickTestingOfServerDetailsPage"/>
+          <include name="setUp"/>
+          <include name="ValidateClickTestingOfLogsPage"/>
+          <include name="ValidateClickTestingOfServerGroupsPage"/>
+          <include name="ValidateClickTestingOfServerRolesPage"/>
+          <include name="closeBrowser"/>
+          <include name="ValidateClickTestingOfApplicationPage"/>
+          <include name="ValidateClickTestingOfPoliciesPage"/>
+        </methods>
+      </class> <!-- testcases.VDeskTest -->
+      <class name="testcases.TicketingTest">
+        <methods>
+          <include name="ValidateClickTestingOfProductPage"/>
+          <include name="ValidateClickTestingOfMyArticlesPage"/>
+          <include name="ValidateClickTestingOfTicketReportPage"/>
+          <include name="beforeMethod"/>
+          <include name="ValidateClickTestingOfKnowledgeBasePage"/>
+          <include name="reportWrapUp"/>
+          <include name="close"/>
+          <include name="ValidateClickTestingOfManageCategoryPage"/>
+          <include name="ValidateClickTestingOfUnassignedTicketPage"/>
+          <include name="setUp"/>
+          <include name="ValidateClickTestingOfAddticketGroupPage"/>
+          <include name="ValidateClickTestingOfManageServiceBoardPage"/>
+          <include name="ValidateClickTestingOfTicketGroupPage"/>
+          <include name="ValidateClickTestingOfAddTicketPage"/>
+          <include name="ValidateClickTestingOfSLAPage"/>
+          <include name="ValidateClickTestingOfTicketFeedbackPage"/>
+          <include name="ValidateClickTestingOfCannedReplyPage"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- testcases.TicketingTest -->
+      <class name="testcases.TrainingTest">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+          <include name="reportWrapUp"/>
+          <include name="close"/>
+          <include name="setUp"/>
+          <include name="ValidateClickTestingOfTrainingReportPage"/>
+        </methods>
+      </class> <!-- testcases.TrainingTest -->
+      <class name="testcases.FsmTest">
+        <methods>
+          <include name="ValidateClickTestingOfCallCenterSyncStatusPage"/>
+          <include name="ValidateClickTestingOfServiceResourcePage"/>
+          <include name="ValidateClickTestingOfWorkTypeListingPage"/>
+          <include name="beforeMethod"/>
+          <include name="reportWrapUp"/>
+          <include name="close"/>
+          <include name="ValidateClickTestingOfServiceAppointmentPage"/>
+          <include name="setUp"/>
+          <include name="ValidateClickTestingOfunassignedTicketPage"/>
+          <include name="ValidateClickTestingOfTechTrackingPage"/>
+          <include name="ValidateClickTestingOfServiceCrewPage"/>
+          <include name="ValidateClickTestingOfServiceTerritoryePage"/>
+          <include name="ValidateClickTestingOfMapExtentPage"/>
+          <include name="ValidateClickTestingOfFormBuilderPage"/>
+          <include name="ValidateClickTestingOfManageMapConfigurationPage"/>
+          <include name="ValidateClickTestingOfTransformPendingPage"/>
+          <include name="closeBrowser"/>
+          <include name="ValidateClickTestingOfTicketingPage"/>
+          <include name="ValidateClickTestingOfZoneManagementPage"/>
+          <include name="ValidateClickTestingOfDashBoardPage"/>
+          <include name="ValidateClickTestingOfFieldServiceTicketPage"/>
+          <include name="ValidateClickTestingOfRuleEnginePage"/>
+          <include name="ValidateClickTestingOfFSMReportPage"/>
+        </methods>
+      </class> <!-- testcases.FsmTest -->
+    </classes>
+  </test> <!-- Parallel Tests2(failed) -->
+</suite> <!-- Failed suite [Parallel Testing Suite] -->

@@ -7,7 +7,11 @@ import org.testng.annotations.Test;
 import action.AssetManagementAstion;
 import action.LoginAction;
 import utils.WebTestBase;
-
+/**
+ * 
+ * @author aanand
+ *
+ */
 public class AssetManagementTest extends WebTestBase{
 	static String Screenname = "<b>Group List</b>"; 
 	/*

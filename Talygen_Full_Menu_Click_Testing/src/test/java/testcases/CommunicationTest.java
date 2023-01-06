@@ -7,7 +7,11 @@ import org.testng.annotations.Test;
 import action.CommunicationAction;
 import action.LoginAction;
 import utils.WebTestBase;
-
+/**
+ * 
+ * @author aanand
+ *
+ */
 public class CommunicationTest extends WebTestBase{
 	static String Screenname = "<b>Communication</b>"; 
 	/*

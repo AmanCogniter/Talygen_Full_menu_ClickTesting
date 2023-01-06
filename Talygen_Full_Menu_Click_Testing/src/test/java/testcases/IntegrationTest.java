@@ -7,7 +7,11 @@ import org.testng.annotations.Test;
 import action.IntegrationAction;
 import action.LoginAction;
 import utils.WebTestBase;
-
+/**
+ * 
+ * @author aanand
+ *
+ */
 public class IntegrationTest extends WebTestBase{
 	static String Screenname = "<b>Integration</b>"; 
 	/*
@@ -26,7 +30,7 @@ public class IntegrationTest extends WebTestBase{
 	/*
 	 * Check click testing of Connector Page
 	 */
-	//@Test(priority=1)
+	@Test(priority=1)
 	public void ValidateClickTestingOfConnectorPage()
 	{
 		test=getTest(Screenname + ": Validation Check of click testing of Connector for Integration");

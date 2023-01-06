@@ -221,7 +221,7 @@ public class AssetManagementPage extends WebBasePage{
      /*-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
      /*Code for click testing of Manage Product */
      public void clickOnManagedProduct()
-     {		staticWait(2000);
+     {		staticWait(3000);
     	 click(By.xpath("//div/ul/li/a[@data-original-title='Manage Product']"),"Managed Product", 30);
     	
     	 try {
@@ -235,11 +235,11 @@ public class AssetManagementPage extends WebBasePage{
 		}
      }
      public void clickOnAddNewProduct()
-     {		staticWait(2000);
+     {		staticWait(3000);
     	 click(By.xpath("//span/a[@data-original-title='Add Product']"),"Add New Product", 30);
     	
     	 try {
-    		 WebElement addNewProduct = driver.findElement(By.xpath("//h5/span[text()='Create Product']"));
+    		 WebElement addNewProduct = driver.findElement(By.xpath("//h5/span[text()='Product Information']"));
     		 if (addNewProduct.isDisplayed()) {
 				logger.info("Add New Product Page opened succesfully");
 			}
@@ -250,7 +250,7 @@ public class AssetManagementPage extends WebBasePage{
      }
      public void clickOnSaveButtonOfCreateProduct()
      {		staticWait(3000);
-    	 click(By.xpath("//a[@data-original-title='Save']"),"Save Button", 30);
+    	 click(By.xpath("//a[@data-original-title='Save & New']"),"Save Button", 30);
     	 
      }
      public void clickOnCancelButtonOfCreateProduct()
@@ -694,7 +694,7 @@ public class AssetManagementPage extends WebBasePage{
     	 clickByJavascript(By.xpath("//span[text()='Asset Management ']//a[text()='Dashboard']"),"Asset Management Dashboard", 30);
     	
     	 try {
-    		 WebElement ProductsTYpe = driver.findElement(By.xpath("//div/span[text()='Import Product Type']"));
+    		 WebElement ProductsTYpe = driver.findElement(By.xpath("//div/span[text()='Asset Dashboard']"));
     		 if (ProductsTYpe.isDisplayed()) {
 				logger.info("Asset Management Dashboard Page opened succesfully");
 			}

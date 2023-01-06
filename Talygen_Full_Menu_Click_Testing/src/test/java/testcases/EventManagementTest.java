@@ -7,7 +7,11 @@ import org.testng.annotations.Test;
 import action.EventManagementAction;
 import action.LoginAction;
 import utils.WebTestBase;
-
+/**
+ * 
+ * @author aanand
+ *
+ */
 public class EventManagementTest extends WebTestBase{
 	static String Screenname = "<b>Event Management</b>"; 
 	/*
@@ -63,7 +67,7 @@ public class EventManagementTest extends WebTestBase{
 		eventManagementAction.GoToUserAvailabilityPage();
 		
 	}
-	@Test(priority=4)
+	@Test(priority=5)
 	public void ValidateClickTestingOfDashBoardPage()
 	{
 		test=getTest(Screenname + ": Validation Check of click testing of DashBoard Page");
