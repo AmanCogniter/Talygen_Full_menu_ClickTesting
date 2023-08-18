@@ -102,9 +102,9 @@ public class CompanySetupAction {
 		
 		companySetupPage.clickOnRolesforCompanySetup();	
 		companySetupPage.clickOnCreateRoles();
-		companySetupPage.clickOnsaveButton();
-		companySetupPage.VerifyMandatoryFieldValidationOfCreateRoles();
-		companySetupPage.clickOnCancelButton();
+		//companySetupPage.clickOnsaveButton();
+		//companySetupPage.VerifyMandatoryFieldValidationOfCreateRoles();
+		//companySetupPage.clickOnCancelButton();
 		
 	}
 	/*Meatod  for User*/

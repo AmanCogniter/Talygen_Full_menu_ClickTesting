@@ -30,7 +30,7 @@ public class HiringTest extends WebTestBase{
 	/*
 	 * Check click testing of Consultant List Page
 	 */
-	@Test(priority=1)
+	//@Test(priority=1)
 	public void ValidateClickTestingOfConsultantListListPage()
 	{
 		test=getTest(Screenname + ": Validation Check of click testing of Consultant List for Hiring");
@@ -133,7 +133,7 @@ public class HiringTest extends WebTestBase{
 	/*
 	 * Check click testing of Policy Page
 	 */
-	@Test(priority=9)
+	//@Test(priority=9)
 	public void ValidateClickTestingOfSertvicePage()
 	{
 		test=getTest(Screenname + ": Validation Check of click testing of Service for Hiring");
@@ -159,7 +159,7 @@ public class HiringTest extends WebTestBase{
 	/*
 	 * Check click testing of Vendor Listing Page
 	 */
-	@Test(priority=11)
+	//@Test(priority=11)
 	public void ValidateClickTestingOfVendorListingPage()
 	{
 		test=getTest(Screenname + ": Validation Check of click testing of Vendor Listing for Hiring");

@@ -222,4 +222,74 @@ public class FsmAction {
 		fsmPage.clickOnAddMore();
 		fsmPage.clickOnCancelButtonOfAddMore();
 		}
+	public void GoToTicketTypeListingPageAndValiadteFunctionality()
+	{
+		
+		fsmPage.clickOnTicketTypeListing();	
+		fsmPage.clickOnSearch();
+		fsmPage.clickOnRefresh();
+		fsmPage.clickOnAddBillingTicketType();
+		fsmPage.clickOnAddTicketType();
+		fsmPage.clickOnSaveAddWorkTypeListing();
+		fsmPage.clickOnCancelAddWorkTypeListing();
+		//fsmPage.clickOnCloseBillingTicketType();
+		fsmPage.clickOnAddTicketMapping();
+		fsmPage.clickOnBillingTicketTypeDropDown();
+		fsmPage.clickOnSaveAddWorkTypeListing();
+		fsmPage.clickOnCancelAddWorkTypeListing();
+		fsmPage.clickOnExportToExcel();
+		fsmPage.clickOnTicketMappingCheckBox();
+		}
+	public void GoToWorkOrderPageAndValiadteFunctionality()
+	{
+		
+		fsmPage.clickOnWorkOrder();	
+		//fsmPage.clickOnExpandMap();
+		fsmPage.clickOnViewType();
+		fsmPage.clickOnAddWorkOrder();
+		fsmPage.clickOnSaveWorkOrder();
+		fsmPage.VerifyMandatoryFielOfAddWorkOrder();
+		fsmPage.clickOnCancelWorkOrder();
+		fsmPage.clickOnSearchWorkOrder();
+		fsmPage.clickOnREsetWorkOrder();
+		fsmPage.clickOnExpandAllorCollapseAll();
+		fsmPage.clickOnTicketMappingCheckBox();
+		fsmPage.clickOnViewList();
+		fsmPage.clickOnWorkOrderManageView();
+		//fsmPage.clickOnLowerExpandAllorCollapseAll();
+		
+		}
+	public void GoToIncidentTypePageAndValiadteFunctionality()
+	{
+		
+		fsmPage.clickOnIncidentType();	
+		fsmPage.clickOnSearchIncidentType();
+		fsmPage.clickOnExpandAllorCollapseAllIncidentType();
+		fsmPage.clickOnAddIncidentType();
+		fsmPage.clickOnSubmitButton();
+		fsmPage.VerifyMandatoryFielOfAddIncidentType();
+		fsmPage.clickOnCloseButton();
+		fsmPage.clickOnAddSubIncidentType();
+		fsmPage.clickOnSubmitButton();
+		fsmPage.VerifyMandatoryFielOfAddSubIncidentType();
+		fsmPage.clickOnCloseButton();
+		
+		
+		}
+	public void GoToResourceTypePageAndValiadteFunctionality()
+	{
+		
+		fsmPage.clickOnResourceType();	
+		fsmPage.clickOnSearchResourceType();
+		fsmPage.clickOnREsetResourceType();
+		fsmPage.clickOnExpandAllorCollapseAllResourceType();
+		fsmPage.clickOnAddResourceType();
+		fsmPage.clickOnStatusDropDown();
+		fsmPage.clickOnSaveAddWorkTypeListing();
+		fsmPage.clickOnCloseNotifyMessage();
+		fsmPage.clickOnCancelAddWorkTypeListing();
+		
+		
+		
+		}
 }

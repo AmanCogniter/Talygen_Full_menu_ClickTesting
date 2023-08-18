@@ -92,6 +92,8 @@ public class AppoitmentCalendarPage extends WebBasePage{
      }
      public void clickOnSearchButton()
      {		staticWait(2000);
+        driver.findElement(By.xpath("//div/ul/li/a[@id='aAppointmentService']")).click();
+        staticWait(2000);
     	 clickByJavascript(By.xpath("//div/a[@id='aSearch']"),"Search Button", 30);
     	 try {
     		 WebElement appoitmentReport = driver.findElement(By.xpath("//div[@id='viewer_pageviewheaderContainer']"));

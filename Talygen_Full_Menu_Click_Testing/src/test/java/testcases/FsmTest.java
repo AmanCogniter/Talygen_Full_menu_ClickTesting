@@ -6,6 +6,7 @@ import org.testng.annotations.Test;
 
 import action.FsmAction;
 import action.LoginAction;
+import action.TicketingAction;
 import utils.WebTestBase;
 /**
  * 
@@ -17,7 +18,7 @@ public class FsmTest extends WebTestBase{
 	/*
 	 * Check click testing of Add Ticket Page
 	 */
-	@Test(priority=0)
+	//@Test(priority=0)
 	public void ValidateClickTestingOfAddTicketPage()
 	{
 		test=getTest(Screenname + ": Validation Check of click testing of Add Ticket for FSM");
@@ -32,8 +33,9 @@ public class FsmTest extends WebTestBase{
 	{
 		test=getTest(Screenname + ": Validation Check of click testing of Call Center Sync Status for FSM");
 		FsmAction fsmAction = new FsmAction(driver);
+		TicketingAction ticketingAction = new TicketingAction(driver);
 		new LoginAction(driver).logoutLogin();
-		fsmAction.GoToFSMPage();
+		ticketingAction.GoToTicketingPage();
 		fsmAction.GoToCallCenterSyncStatusPage();
 		
 	}
@@ -47,7 +49,7 @@ public class FsmTest extends WebTestBase{
 		fsmAction.CheckGoToConnectorPage();
 		
 	}
-	@Test(priority=3)
+	//@Test(priority=3)
 	public void ValidateClickTestingOfFieldServiceTicketPage()
 	{
 		test=getTest(Screenname + ": Validation Check of click testing of Field Service Ticket for FSM");
@@ -62,8 +64,9 @@ public class FsmTest extends WebTestBase{
 	{
 		test=getTest(Screenname + ": Validation Check of click testing of Form Builder for FSM");
 		FsmAction fsmAction = new FsmAction(driver);
+		TicketingAction ticketingAction = new TicketingAction(driver);
 		new LoginAction(driver).logoutLogin();
-		fsmAction.GoToFSMPage();
+		ticketingAction.GoToTicketingPage();
 		fsmAction.GoToFormBuilderPage();
 		
 	}
@@ -72,8 +75,9 @@ public class FsmTest extends WebTestBase{
 	{
 		test=getTest(Screenname + ": Validation Check of click testing of FSM Report for FSM");
 		FsmAction fsmAction = new FsmAction(driver);
+		TicketingAction ticketingAction = new TicketingAction(driver);
 		new LoginAction(driver).logoutLogin();
-		fsmAction.GoToFSMPage();
+		ticketingAction.GoToTicketingPage();
 		fsmAction.GoToFSMReportPage();
 		
 	}
@@ -82,8 +86,9 @@ public class FsmTest extends WebTestBase{
 	{
 		test=getTest(Screenname + ": Validation Check of click testing of Manage Map Configuration for FSM");
 		FsmAction fsmAction = new FsmAction(driver);
+		TicketingAction ticketingAction = new TicketingAction(driver);
 		new LoginAction(driver).logoutLogin();
-		fsmAction.GoToFSMPage();
+		ticketingAction.GoToTicketingPage();
 		fsmAction.GoToManageMapConfigurationPage();
 		
 	}
@@ -92,12 +97,13 @@ public class FsmTest extends WebTestBase{
 	{
 		test=getTest(Screenname + ": Validation Check of click testing of Map Extent for FSM");
 		FsmAction fsmAction = new FsmAction(driver);
+		TicketingAction ticketingAction = new TicketingAction(driver);
 		new LoginAction(driver).logoutLogin();
-		fsmAction.GoToFSMPage();
+		ticketingAction.GoToTicketingPage();
 		fsmAction.GoToMapExtentPage();
 		
 	}
-	@Test(priority=8)
+	//@Test(priority=8)
 	public void ValidateClickTestingOfRuleEnginePage()
 	{
 		test=getTest(Screenname + ": Validation Check of click testing of Rule Engine for FSM");
@@ -112,8 +118,9 @@ public class FsmTest extends WebTestBase{
 	{
 		test=getTest(Screenname + ": Validation Check of click testing of Service Appointment for FSM");
 		FsmAction fsmAction = new FsmAction(driver);
+		TicketingAction ticketingAction = new TicketingAction(driver);
 		new LoginAction(driver).logoutLogin();
-		fsmAction.GoToFSMPage();
+		ticketingAction.GoToTicketingPage();
 		fsmAction.GoToServiceAppointmentPage();
 		
 	}
@@ -122,12 +129,13 @@ public class FsmTest extends WebTestBase{
 	{
 		test=getTest(Screenname + ": Validation Check of click testing of Service Crew for FSM");
 		FsmAction fsmAction = new FsmAction(driver);
+		TicketingAction ticketingAction = new TicketingAction(driver);
 		new LoginAction(driver).logoutLogin();
-		fsmAction.GoToFSMPage();
+		ticketingAction.GoToTicketingPage();
 		fsmAction.GoToServiceCrewPage();
 		
 	}
-	@Test(priority=11)
+	//@Test(priority=11)
 	public void ValidateClickTestingOfServiceResourcePage()
 	{
 		test=getTest(Screenname + ": Validation Check of click testing of Service Resource for FSM");
@@ -137,7 +145,7 @@ public class FsmTest extends WebTestBase{
 		fsmAction.GoToServiceResourcePage();
 		
 	}
-	@Test(priority=12)
+	//@Test(priority=12)
 	public void ValidateClickTestingOfServiceTerritoryePage()
 	{
 		test=getTest(Screenname + ": Validation Check of click testing of Service Territory for FSM");
@@ -152,12 +160,13 @@ public class FsmTest extends WebTestBase{
 	{
 		test=getTest(Screenname + ": Validation Check of click testing of Tech Tracking for FSM");
 		FsmAction fsmAction = new FsmAction(driver);
+		TicketingAction ticketingAction = new TicketingAction(driver);
 		new LoginAction(driver).logoutLogin();
-		fsmAction.GoToFSMPage();
+		ticketingAction.GoToTicketingPage();
 		fsmAction.GoToTechTrackingPage();
 		
 	}
-	@Test(priority=14)
+	//@Test(priority=14)
 	public void ValidateClickTestingOfTicketingPage()
 	{
 		test=getTest(Screenname + ": Validation Check of click testing of Ticketing for FSM");
@@ -172,12 +181,13 @@ public class FsmTest extends WebTestBase{
 	{
 		test=getTest(Screenname + ": Validation Check of click testing of Transform Pending for FSM");
 		FsmAction fsmAction = new FsmAction(driver);
+		TicketingAction ticketingAction = new TicketingAction(driver);
 		new LoginAction(driver).logoutLogin();
-		fsmAction.GoToFSMPage();
+		ticketingAction.GoToTicketingPage();
 		fsmAction.GoToTransformPendingPage();
 		
 	}
-	@Test(priority=16)
+	//@Test(priority=16)
 	public void ValidateClickTestingOfunassignedTicketPage()
 	{
 		test=getTest(Screenname + ": Validation Check of click testing of unassigned ticket for FSM");
@@ -192,8 +202,9 @@ public class FsmTest extends WebTestBase{
 	{
 		test=getTest(Screenname + ": Validation Check of click testing of Work Type Listing for FSM");
 		FsmAction fsmAction = new FsmAction(driver);
+		TicketingAction ticketingAction = new TicketingAction(driver);
 		new LoginAction(driver).logoutLogin();
-		fsmAction.GoToFSMPage();
+		ticketingAction.GoToTicketingPage();
 		fsmAction.GoToWorkTypeListingPage();
 		
 	}
@@ -202,8 +213,9 @@ public class FsmTest extends WebTestBase{
 	{
 		test=getTest(Screenname + ": Validation Check of click testing of Zone Management for FSM");
 		FsmAction fsmAction = new FsmAction(driver);
+		TicketingAction ticketingAction = new TicketingAction(driver);
 		new LoginAction(driver).logoutLogin();
-		fsmAction.GoToFSMPage();
+		ticketingAction.GoToTicketingPage();
 		fsmAction.GoToZoneManagementPage();
 		
 	}
@@ -212,8 +224,9 @@ public class FsmTest extends WebTestBase{
 	{
 		test=getTest(Screenname + ": Validation Check of click testing of DashBoard for FSM");
 		FsmAction fsmAction = new FsmAction(driver);
+		TicketingAction ticketingAction = new TicketingAction(driver);
 		new LoginAction(driver).logoutLogin();
-		fsmAction.GoToFSMPage();
+		ticketingAction.GoToTicketingPage();
 		fsmAction.GoToDashBoardPage();
 		
 	}

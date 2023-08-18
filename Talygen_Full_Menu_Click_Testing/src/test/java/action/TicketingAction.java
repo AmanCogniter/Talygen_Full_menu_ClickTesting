@@ -32,9 +32,25 @@ public class TicketingAction {
 		ticketingPage.clickOnCloseNotifyMessage();
 		ticketingPage.VerifyMandatoryFieldValidation();
 		ticketingPage.clickOnCancelForAddTicket();
-		ticketingPage.clickOnCheckBox();
+		ticketingPage.clickOnCheckBoxForTicketing();
 		ticketingPage.clickOnUpdateStatus();
-		ticketingPage.clickOnCancelButtonOfUpdateStatus();
+		ticketingPage.clickOnCancel();
+		ticketingPage.clickOnAssignTicket();
+		ticketingPage.clickOnAssignTag();
+		ticketingPage.clickOnFilter();
+		ticketingPage.clickOnActionButton();
+		ticketingPage.clickOnQuickView();
+		ticketingPage.clickOnNotes();
+		ticketingPage.cilckOnActivities();
+		ticketingPage.clickOnAttachements();
+		ticketingPage.clickOnViewDetail();
+		ticketingPage.clickOnActionButton();
+		ticketingPage.clickOnView();
+		ticketingPage.clickOnActionButton();
+		ticketingPage.clickOnAddFollowUp();
+		ticketingPage.clickOnActionButton();
+		ticketingPage.clickOnDeleteTicket();
+		
 		
 	}
 	/*Method  for Add Ticket */
@@ -62,7 +78,22 @@ public class TicketingAction {
 		ticketingPage.clickOnCancelForAddTicket();
 		ticketingPage.clickOnCheckBox();
 		ticketingPage.clickOnUpdateStatus();
-		ticketingPage.clickOnCancelButtonOfUpdateStatus();
+		ticketingPage.clickOnCancel();
+		ticketingPage.clickOnAssignTicket();
+		ticketingPage.clickOnAssignTag();
+		ticketingPage.clickOnFilter();
+		ticketingPage.clickOnActionButton();
+		ticketingPage.clickOnQuickView();
+		ticketingPage.clickOnNotes();
+		ticketingPage.cilckOnActivities();
+		ticketingPage.clickOnAttachements();
+		ticketingPage.clickOnViewDetail();
+		ticketingPage.clickOnActionButton();
+		ticketingPage.clickOnView();
+		ticketingPage.clickOnActionButton();
+		ticketingPage.clickOnAddFollowUp();
+		ticketingPage.clickOnActionButton();
+		ticketingPage.clickOnDeleteTicket();
 		
 	}
 	/*Method  for Ticket Feedback */
@@ -75,9 +106,10 @@ public class TicketingAction {
 		ticketingPage.VerifyMandatoryFieldOfAddFeedback();
 		ticketingPage.clickOnCancelAddFeedback();
 		ticketingPage.clickOnCheckBox();
-		ticketingPage.clickOnActive();
-		//ticketingPage.clickOnCheckBox();
 		ticketingPage.clickOnInActive();
+		
+		//ticketingPage.clickOnCheckBox();
+		ticketingPage.clickOnActive();
 		ticketingPage.clickOnDelete();
 		
 		
@@ -171,11 +203,17 @@ public void GoToKnowledgeBasePage()
 	
 	ticketingPage.clickOnKnowledgeBase();	
 	ticketingPage.clickOnAddKnowledgeBase();	
-	ticketingPage.clickOnSaveAsDraft();;
-	ticketingPage.clickOnCloseNotifyMessage();
-	ticketingPage.VerifyMandatoryFieldValidation();
-	ticketingPage.clickOnCancelAddTicket();
+	ticketingPage.clickOnSaveAddArticle();;
+	//ticketingPage.clickOnCloseNotifyMessage();
+	ticketingPage.VerifyMandatoryFieldOfAddArticle();
+	ticketingPage.clickOnCancelAddNewcategory();
 	ticketingPage.clickOnExpandAllCollapseAll();
+	ticketingPage.clickOnCheckBoxOfMyArticles();
+	ticketingPage.clickOnDeleteMyArticles();
+	ticketingPage.clickOnCloneButton();
+	ticketingPage.clickOnUserGuideOfClone();
+	ticketingPage.clickOnMoveButton();
+	ticketingPage.clickOnUserGuideOfMove();
 	
 }
 /*Method  for Manage Category */

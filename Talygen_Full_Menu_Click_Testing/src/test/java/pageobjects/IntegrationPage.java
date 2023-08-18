@@ -8,6 +8,7 @@ import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
@@ -92,6 +93,197 @@ public class IntegrationPage extends WebBasePage{
 		}
     	 
      }
+     public void clickOnStatusCodeMappingIcon()
+     {		staticWait(2000);
+     
+    	 click(By.xpath("//div/a/span[text()='Status Code Mapping']"),"Status Code Mapping Icon", 30);
+    	
+    	 try {
+    		 WebElement statusCodeMapping = driver.findElement(By.xpath("//div/h2[text()='Status Code Mapping']"));
+    		 if (statusCodeMapping.isDisplayed()) {
+				logger.info("Status Code Mapping Page opened succesfully");
+			}
+		} catch (Exception e) {
+			// TODO: handle exception
+			logger.info("Status Code Mapping Page not opened succesfully");
+		}
+    	 staticWait(1000);
+    	 driver.navigate().back();
+     }
+     public void clickOnTicketTypeMappingIcon()
+     {		staticWait(2000);
+     
+    	 click(By.xpath("//div/a/span[text()='Ticket Type Mapping']"),"Ticket Type Mapping icon", 30);
+    	
+    	 try {
+    		 WebElement ticketTypeMapping = driver.findElement(By.xpath("//div/h2[text()='Ticket Type Mapping']"));
+    		 if (ticketTypeMapping.isDisplayed()) {
+				logger.info("Ticket Type Mapping Page opened succesfully");
+			}
+		} catch (Exception e) {
+			// TODO: handle exception
+			logger.info("Ticket Type Mapping Page not opened succesfully");
+		}
+    	 staticWait(1000);
+    	 driver.navigate().back();
+     }
+     public void clickOnSuppressCodeIcon()
+     {		staticWait(2000);
+    
+    	 click(By.xpath("//div/a/span[text()='Suppress Code']"),"Suppress Code icon", 30);
+    	
+    	 try {
+    		 WebElement suppressCode = driver.findElement(By.xpath("//div/h2[text()='Suppress Code']"));
+    		 if (suppressCode.isDisplayed()) {
+				logger.info("Suppress Code Page opened succesfully");
+			}
+		} catch (Exception e) {
+			// TODO: handle exception
+			logger.info("Suppress Code Page not opened succesfully");
+		}
+    	 staticWait(1000);
+    	 driver.navigate().back();
+     }
+     public void clickOnInvoiceGroupingsIcon()
+     {		staticWait(2000);
+    
+    	 click(By.xpath("//div/a/span[text()='Invoice Groupings']"),"Invoice Groupings Icon", 30);
+    	
+    	 try {
+    		 WebElement suppressCode = driver.findElement(By.xpath("//div/h2[text()='Invoice Groupings Mapping']"));
+    		 if (suppressCode.isDisplayed()) {
+				logger.info("Invoice Groupings Page opened succesfully");
+			}
+		} catch (Exception e) {
+			// TODO: handle exception
+			logger.info("Invoice Groupings Page not opened succesfully");
+		}
+    	 staticWait(1000);
+    	 driver.navigate().back();
+     }
+     public void clickOnWorkCodeIcon()
+     {		staticWait(2000);
+    
+    	 click(By.xpath("//div/a/span[text()='Work Code']"),"Work Code Icon", 30);
+    	
+    	 try {
+    		 WebElement workCode = driver.findElement(By.xpath("//div/h2[text()='Work Code']"));
+    		 if (workCode.isDisplayed()) {
+				logger.info("Work Code Page opened succesfully");
+			}
+		} catch (Exception e) {
+			// TODO: handle exception
+			logger.info("Work Code Page not opened succesfully");
+		}
+    	 staticWait(1000);
+    	 driver.navigate().back();
+     }
+     public void clickOnWorkCodeCategoryIcon()
+     {		staticWait(2000);
+    
+    	 click(By.xpath("//div/a/span[text()='Work Code Category']"),"Work Code Category icon", 30);
+    	
+    	 try {
+    		 WebElement workCodeCategory = driver.findElement(By.xpath("//div/h2[text()='Work Code Category']"));
+    		 if (workCodeCategory.isDisplayed()) {
+				logger.info("Work Code Category Page opened succesfully");
+			}
+		} catch (Exception e) {
+			// TODO: handle exception
+			logger.info("Work Code Category Page not opened succesfully");
+		}
+    	 staticWait(1000);
+    	 driver.navigate().back();
+     }
+     public void clickOnCountyIcon()
+     {		staticWait(2000);
+     
+    	 click(By.xpath("//div/a/span[text()='County']"),"County Icon", 30);
+    	
+    	 try {
+    		 WebElement County = driver.findElement(By.xpath("//div/h2[text()='County']"));
+    		 if (County.isDisplayed()) {
+				logger.info("County Page opened succesfully");
+			}
+		} catch (Exception e) {
+			// TODO: handle exception
+			logger.info("County Page not opened succesfully");
+		}
+    	 staticWait(1000);
+    	 driver.navigate().back();
+     }
+     public void clickOnContractUtilityCDCMappingIcon()
+     {		staticWait(2000);
+     
+    	 click(By.xpath("//div/a/span[text()='Contract/Utility/CDC Mapping']"),"Contract/Utility/CDC Mapping Icon", 30);
+    	
+    	 try {
+    		 WebElement contractUtilityCDCMapping = driver.findElement(By.xpath("//div/h2[text()='Contract/Utility/CDC Mapping']"));
+    		 if (contractUtilityCDCMapping.isDisplayed()) {
+				logger.info("Contract/Utility/CDC Mapping Page opened succesfully");
+			}
+		} catch (Exception e) {
+			// TODO: handle exception
+			logger.info("Contract/Utility/CDC Mapping Page not opened succesfully");
+		}
+    	 staticWait(1000);
+    	 driver.navigate().back();
+     }
+     public void clickOnStatusCodeIcon()
+     {		staticWait(2000);
+    
+    	 click(By.xpath("//div/a/span[text()='Status Code']"),"Status Code Icon", 30);
+    	
+    	 try {
+    		 WebElement statusCode = driver.findElement(By.xpath("//div/h2[text()='Status']"));
+    		 if (statusCode.isDisplayed()) {
+				logger.info("Status Code Page opened succesfully");
+			}
+		} catch (Exception e) {
+			// TODO: handle exception
+			logger.info("Status Code Page not opened succesfully");
+		}
+    	 staticWait(1000);
+    	 driver.navigate().back();
+     }
+     public void clickOnSetUpTicketSourceIcon()
+     {		staticWait(2000);
+    
+    	 click(By.xpath("//div/a/span[text()='Setup Ticket Source']"),"SetUp Ticket Source Icon", 30);
+    	
+    	 try {
+    		 WebElement setupTicketSource = driver.findElement(By.xpath("//div/h2[text()='Setup Ticket Source']"));
+    		 if (setupTicketSource.isDisplayed()) {
+				logger.info("Setup Ticket Source Page opened succesfully");
+			}
+		} catch (Exception e) {
+			// TODO: handle exception
+			logger.info("Setup Ticket Source Page not opened succesfully");
+		}
+    	 staticWait(1000);
+    	 driver.navigate().back();
+     }
+     public void clickOnStatusCodeCDCMappingIcon()
+     {		staticWait(2000);
+     
+    	 click(By.xpath("//div/a/span[text()='Status Code/CDC Mapping']"),"Status Code/CDC Mapping Icon", 30);
+    	
+    	 try {
+    		 WebElement statusCodeCDCMapping = driver.findElement(By.xpath("//div/h2[text()='Status Code/CDC Mapping']"));
+    		 if (statusCodeCDCMapping.isDisplayed()) {
+				logger.info("Status Code CDC Mapping Page opened succesfully");
+				
+	
+			}
+		} catch (Exception e) {
+			// TODO: handle exception
+			logger.info("Status Code/CDC MappingPage not opened succesfully");
+		}
+    	 staticWait(1000);
+    	 driver.navigate().back();
+    	 
+     }
+
      /*------------------------------------------------------------------------------------------------------------------------------------------*/
      /*Code for click testing of Email */
      public void clickOnEmail()

@@ -2,7 +2,6 @@ package action;
 
 import org.openqa.selenium.WebDriver;
 
-import pageobjects.FsmPage;
 import pageobjects.IntegrationPage;
 import pageobjects.PerformanceReviewPage;
 

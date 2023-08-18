@@ -5,6 +5,7 @@ import static reporting.ComplexReportFactory.getTest;
 import org.testng.annotations.Test;
 
 import action.AppoitmentCalenderAction;
+import action.FsmAction;
 import action.LoginAction;
 import action.TicketingAction;
 import utils.WebTestBase;
@@ -195,6 +196,184 @@ public class TicketingTest extends WebTestBase{
 		new LoginAction(driver).logoutLogin();
 		ticketingAction.GoToTicketingPage();
 		ticketingAction.GoToProductPage();
+		
+	}
+
+	/* -------------FSM Test Script----------- */
+	@Test(priority=14)
+	public void ValidateClickTestingOfCallCenterSyncStatusPage()
+	{
+		test=getTest(Screenname + ": Validation Check of click testing of Call Center Sync Status for FSM");
+		FsmAction fsmAction = new FsmAction(driver);
+		TicketingAction ticketingAction = new TicketingAction(driver);
+		new LoginAction(driver).logoutLogin();
+		ticketingAction.GoToTicketingPage();
+		fsmAction.GoToCallCenterSyncStatusPage();
+		
+	}
+	@Test(priority=15)
+	public void ValidateClickTestingOfFormBuilderPage()
+	{
+		test=getTest(Screenname + ": Validation Check of click testing of Form Builder for FSM");
+		FsmAction fsmAction = new FsmAction(driver);
+		TicketingAction ticketingAction = new TicketingAction(driver);
+		new LoginAction(driver).logoutLogin();
+		ticketingAction.GoToTicketingPage();
+		fsmAction.GoToFormBuilderPage();
+		
+	}
+	@Test(priority=16)
+	public void ValidateClickTestingOfFSMReportPage()
+	{
+		test=getTest(Screenname + ": Validation Check of click testing of FSM Report for FSM");
+		FsmAction fsmAction = new FsmAction(driver);
+		TicketingAction ticketingAction = new TicketingAction(driver);
+		new LoginAction(driver).logoutLogin();
+		ticketingAction.GoToTicketingPage();
+		fsmAction.GoToFSMReportPage();
+		
+	}
+	@Test(priority=17)
+	public void ValidateClickTestingOfManageMapConfigurationPage()
+	{
+		test=getTest(Screenname + ": Validation Check of click testing of Manage Map Configuration for FSM");
+		FsmAction fsmAction = new FsmAction(driver);
+		TicketingAction ticketingAction = new TicketingAction(driver);
+		new LoginAction(driver).logoutLogin();
+		ticketingAction.GoToTicketingPage();
+		fsmAction.GoToManageMapConfigurationPage();
+		
+	}
+	@Test(priority=18)
+	public void ValidateClickTestingOfMapExtentPage()
+	{
+		test=getTest(Screenname + ": Validation Check of click testing of Map Extent for FSM");
+		FsmAction fsmAction = new FsmAction(driver);
+		TicketingAction ticketingAction = new TicketingAction(driver);
+		new LoginAction(driver).logoutLogin();
+		ticketingAction.GoToTicketingPage();
+		fsmAction.GoToMapExtentPage();
+		
+	}
+	@Test(priority=19)
+	public void ValidateClickTestingOfServiceAppointmentPage()
+	{
+		test=getTest(Screenname + ": Validation Check of click testing of Service Appointment for FSM");
+		FsmAction fsmAction = new FsmAction(driver);
+		TicketingAction ticketingAction = new TicketingAction(driver);
+		new LoginAction(driver).logoutLogin();
+		ticketingAction.GoToTicketingPage();
+		fsmAction.GoToServiceAppointmentPage();
+		
+	}
+	@Test(priority=20)
+	public void ValidateClickTestingOfServiceCrewPage()
+	{
+		test=getTest(Screenname + ": Validation Check of click testing of Service Crew for FSM");
+		FsmAction fsmAction = new FsmAction(driver);
+		TicketingAction ticketingAction = new TicketingAction(driver);
+		new LoginAction(driver).logoutLogin();
+		ticketingAction.GoToTicketingPage();
+		fsmAction.GoToServiceCrewPage();
+		
+	}
+	@Test(priority=21)
+	public void ValidateClickTestingOfTechTrackingPage()
+	{
+		test=getTest(Screenname + ": Validation Check of click testing of Tech Tracking for FSM");
+		FsmAction fsmAction = new FsmAction(driver);
+		TicketingAction ticketingAction = new TicketingAction(driver);
+		new LoginAction(driver).logoutLogin();
+		ticketingAction.GoToTicketingPage();
+		fsmAction.GoToTechTrackingPage();
+		
+	}
+	@Test(priority=22)
+	public void ValidateClickTestingOfTransformPendingPage()
+	{
+		test=getTest(Screenname + ": Validation Check of click testing of Transform Pending for FSM");
+		FsmAction fsmAction = new FsmAction(driver);
+		TicketingAction ticketingAction = new TicketingAction(driver);
+		new LoginAction(driver).logoutLogin();
+		ticketingAction.GoToTicketingPage();
+		fsmAction.GoToTransformPendingPage();
+		
+	}
+	@Test(priority=23)
+	public void ValidateClickTestingOfWorkTypeListingPage()
+	{
+		test=getTest(Screenname + ": Validation Check of click testing of Work Type Listing for FSM");
+		FsmAction fsmAction = new FsmAction(driver);
+		TicketingAction ticketingAction = new TicketingAction(driver);
+		new LoginAction(driver).logoutLogin();
+		ticketingAction.GoToTicketingPage();
+		fsmAction.GoToWorkTypeListingPage();
+		
+	}
+	@Test(priority=24)
+	public void ValidateClickTestingOfZoneManagementPage()
+	{
+		test=getTest(Screenname + ": Validation Check of click testing of Zone Management for FSM");
+		FsmAction fsmAction = new FsmAction(driver);
+		TicketingAction ticketingAction = new TicketingAction(driver);
+		new LoginAction(driver).logoutLogin();
+		ticketingAction.GoToTicketingPage();
+		fsmAction.GoToZoneManagementPage();
+		
+	}
+	@Test(priority=25)
+	public void ValidateClickTestingOfDashBoardPage()
+	{
+		test=getTest(Screenname + ": Validation Check of click testing of DashBoard for FSM");
+		FsmAction fsmAction = new FsmAction(driver);
+		TicketingAction ticketingAction = new TicketingAction(driver);
+		new LoginAction(driver).logoutLogin();
+		ticketingAction.GoToTicketingPage();
+		fsmAction.GoToDashBoardPage();
+		
+	}
+	@Test(priority=26)
+	public void ValidateClickTestingOfTicketTypeListingPage()
+	{
+		test=getTest(Screenname + ": Validation Check of click testing of Ticket Type Listing for FSM");
+		FsmAction fsmAction = new FsmAction(driver);
+		TicketingAction ticketingAction = new TicketingAction(driver);
+		new LoginAction(driver).logoutLogin();
+		ticketingAction.GoToTicketingPage();
+		fsmAction.GoToTicketTypeListingPageAndValiadteFunctionality();
+		
+	}
+	@Test(priority=27)
+	public void ValidateClickTestingOfWorkOrderPage()
+	{
+		test=getTest(Screenname + ": Validation Check of click testing of Work Order for FSM");
+		FsmAction fsmAction = new FsmAction(driver);
+		TicketingAction ticketingAction = new TicketingAction(driver);
+		new LoginAction(driver).logoutLogin();
+		ticketingAction.GoToTicketingPage();
+		fsmAction.GoToWorkOrderPageAndValiadteFunctionality();
+		
+	}
+	@Test(priority=28)
+	public void ValidateClickTestingOfIncidentTypePage()
+	{
+		test=getTest(Screenname + ": Validation Check of click testing of Incident Type for FSM");
+		FsmAction fsmAction = new FsmAction(driver);
+		TicketingAction ticketingAction = new TicketingAction(driver);
+		new LoginAction(driver).logoutLogin();
+		ticketingAction.GoToTicketingPage();
+		fsmAction.GoToIncidentTypePageAndValiadteFunctionality();
+		
+	}
+	@Test(priority=29)
+	public void ValidateClickTestingOfResourceTypePage()
+	{
+		test=getTest(Screenname + ": Validation Check of click testing of Resource Type for FSM");
+		FsmAction fsmAction = new FsmAction(driver);
+		TicketingAction ticketingAction = new TicketingAction(driver);
+		new LoginAction(driver).logoutLogin();
+		ticketingAction.GoToTicketingPage();
+		fsmAction.GoToResourceTypePageAndValiadteFunctionality();
 		
 	}
 }

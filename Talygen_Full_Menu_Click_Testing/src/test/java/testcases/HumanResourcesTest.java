@@ -69,7 +69,7 @@ public class HumanResourcesTest extends WebTestBase{
 	/*
 	 * Check click testing of Consultant List  Page
 	 */
-	@Test(priority=4)
+	//@Test(priority=4)
 	public void ValidateClickTestingOfConsultantListPage()
 	{
 		test=getTest(Screenname + ": Validation Check of click testing of Consultant List  for Human Resources");

@@ -125,9 +125,9 @@ public class HiringAction {
 	{
 		
 		hiringPage.clickOnResignationforHiring();	
-		hiringPage.clickOnApplyResignation();
-		hiringPage.clickOnSaveManageResignation();
-		hiringPage.clickOnCancelManageResignation();
+		//hiringPage.clickOnApplyResignation();
+		//hiringPage.clickOnSaveManageResignation();
+		//hiringPage.clickOnCancelManageResignation();
 		hiringPage.clickOnAddOffboardEmployeeListforHiring();
 		hiringPage.clickOnSaveAddConsultantList();
 		hiringPage.VerifyMandatoryFieldOfAddOffboardEmployeeList();

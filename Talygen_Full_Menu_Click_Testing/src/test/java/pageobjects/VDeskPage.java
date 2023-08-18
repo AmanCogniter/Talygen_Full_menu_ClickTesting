@@ -321,6 +321,7 @@ public void clickOnServerRoles()
 }
 public void clickOnAddServerRoles()
 {		staticWait(2000);
+    
 	 click(By.xpath("//div/span/a[@data-original-title='Add']"),"Add Server Roles", 30);
 	 
 	
@@ -329,7 +330,7 @@ public void clickOnAddServerRoles()
 		 WebElement addServerRolesPage = driver.findElement(By.xpath("//div/h5[text()=' Add New Server']"));
 		 if (addServerRolesPage.isDisplayed()) {
 			logger.info("Add Server Roles Page opened succesfully");
-			 click(By.xpath("//div/a[@title='Cancel']"),"Close Add Policies", 30);
+			 click(By.xpath("//div/a[@title='Cancel']"),"Close Add Server", 30);
 		}
 	} catch (Exception e) {
 		// TODO: handle exception
@@ -360,13 +361,13 @@ public void clickOnCloseNotifyMessagePopup()
 	 click(By.xpath("//button[@id='closenotifymessage']"),"Close Notify Message PopUp", 30);
 }
 public void clickOnAddServerGroups()
-{		staticWait(2000);
+{		staticWait(5000);
 	 click(By.xpath("//div/span/a[@data-original-title='Add']"),"Add Server Groups", 30);
 	 
 	
 	 try {
 		 staticWait(2000);
-		 WebElement addServerGroupsPage = driver.findElement(By.xpath("//div/h5[contains(text(),'Server Groups')]"));
+		 WebElement addServerGroupsPage = driver.findElement(By.xpath("//div/h5[contains(text(),' Add New Server')]"));
 		 if (addServerGroupsPage.isDisplayed()) {
 			logger.info("Add Server Groups Page opened succesfully");
 			 click(By.xpath("//div/a[@title='Close']"),"Close Add Policies", 30);

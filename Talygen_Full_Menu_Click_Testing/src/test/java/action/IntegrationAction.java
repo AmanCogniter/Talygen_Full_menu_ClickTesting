@@ -36,7 +36,19 @@ public class IntegrationAction {
 		public void CheckGoToConnectorPage()
 		{
 			
-			integrationPage.clickOnConnector();	
+			integrationPage.clickOnConnector();
+			integrationPage.clickOnStatusCodeMappingIcon();
+			integrationPage.clickOnTicketTypeMappingIcon();
+			integrationPage.clickOnSuppressCodeIcon();
+			integrationPage.clickOnInvoiceGroupingsIcon();
+			integrationPage.clickOnWorkCodeIcon();
+			integrationPage.clickOnWorkCodeCategoryIcon();
+			integrationPage.clickOnCountyIcon();
+			integrationPage.clickOnContractUtilityCDCMappingIcon();
+			integrationPage.clickOnStatusCodeIcon();
+			integrationPage.clickOnSetUpTicketSourceIcon();
+			integrationPage.clickOnStatusCodeCDCMappingIcon();
+			
 			fsmPage.clickOnStatusCodeMapping();
 			fsmPage.clickOnTicketTypeMapping();
 			fsmPage.clickOnSuppressCode();

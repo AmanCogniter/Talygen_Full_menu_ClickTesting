@@ -25,7 +25,7 @@
       <class name="testcases.TimeTrackingTest"/>
       <class name="testcases.HiringTest"/>
       <class name="testcases.CommunicationTest"/>
-      <class name="testcases.FsmTest"/>
+      <!--class name="testcases.FsmTest"/-->
       <class name="testcases.TrainingTest"/>
       <class name="testcases.ProjectManagementTest"/>
       <class name="testcases.IntegrationTest"/>

@@ -582,7 +582,7 @@ public class HRManagementPage extends WebBasePage{
         public void clickOnCloseCommentPopUp()
         {		
          staticWait(2000);
-        click(By.xpath("//div/h5[text()='Comment for Multiple Leave Approvals']/ancestor::div[@class='modal-content']/descendant::button[@data-original-title='Close']"),"Close Button", 30);
+        click(By.xpath("//div/h5[contains(text(),'Leave Approval')]/ancestor::div[@class='modal-content']/descendant::button[@data-original-title='Close']"),"Close Button", 30);
         }
         public void clickOnApprove()
         {		

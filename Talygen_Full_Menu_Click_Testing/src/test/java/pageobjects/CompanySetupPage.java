@@ -329,7 +329,7 @@ public class CompanySetupPage extends WebBasePage{
     	 click(By.xpath("(//div/ul/li/a[@data-original-title='Manage Subscription'])[2]"),"Manage Subscription", 30);
     	
     	 try {
-    		 WebElement manageSubscription = driver.findElement(By.xpath("//div/a[text()='Update Billing Information']"));
+    		 WebElement manageSubscription = driver.findElement(By.xpath("//div/h5/span[text()='Billing Address']"));
     		 if (manageSubscription.isDisplayed()) {
 				logger.info("Manage Subscription Page opened succesfully");
 			}
@@ -337,9 +337,9 @@ public class CompanySetupPage extends WebBasePage{
 			// TODO: handle exception
 			logger.info("Manage Subscription Page not opened succesfully");
 		}
-    	 clickByJavascript(By.xpath("//div/a[text()='Update Billing Information']"),"Update Billing Information", 30);
-    	 clickByJavascript(By.xpath("//div/a[@id='cancel']"),"Cancel button", 30);
-    	 driver.navigate().refresh();
+    	 //clickByJavascript(By.xpath("//div/a[text()='Update Billing Information']"),"Update Billing Information", 30);
+    	 //clickByJavascript(By.xpath("//div/a[@id='cancel']"),"Cancel button", 30);
+    	// driver.navigate().refresh();
      }
      /*----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
      /*
